@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ishdan_boshash",
+    "guruh": "Mehnat",
+    "icon": "",
+    "nomi": "Ishdan bo'shash (o'z xohishi bilan)",
+    "turi": "ariza",
+    "kategoriya_id": "mehnat",
+    "kimga": "[Tashkilot nomi] rahbari [F.I.Sh.]ga",
+    "mavzu": "O'z xohishimga ko'ra ishdan bo'shatish to'g'risida",
+    "matn": "Sizdan meni [sana]dan boshlab egallab turgan [lavozim nomi] lavozimimdan o'z xohishimga ko'ra ozod etishingizni so'rayman.\n\nMehnat shartnomasini bekor qilish to'g'risida ish beruvchini qonunda belgilangan muddatda ogohlantirmoqdaman. Hisob-kitob qilish va mehnat daftarchasini (elektron mehnat daftarchasidagi yozuvni) rasmiylashtirishni so'rayman.",
+    "maslahatlar": [
+      "Arizani ikki nusxada topshiring va ikkinchi nusxaga qabul qilinganlik belgisini qo'ydirib oling",
+      "Ogohlantirish muddatini Mehnat kodeksi bo'yicha tekshiring"
+    ]
+  },
+  {
+    "id": "tatil",
+    "guruh": "Mehnat",
+    "icon": "",
+    "nomi": "Mehnat ta'tili berish",
+    "turi": "ariza",
+    "kategoriya_id": "mehnat",
+    "kimga": "[Tashkilot nomi] rahbari [F.I.Sh.]ga",
+    "mavzu": "Yillik mehnat ta'tili berish to'g'risida",
+    "matn": "Sizdan menga [sana]dan boshlab [kun soni] kalendar kun muddatga yillik asosiy mehnat ta'tili berishingizni so'rayman.\n\nTa'til haqini qonunchilikda belgilangan muddatda to'lab berishingizni so'rayman.",
+    "maslahatlar": [
+      "Ta'til jadvalida ko'rsatilgan sanani tekshiring"
+    ]
+  },
+  {
+    "id": "ish_haqi",
+    "guruh": "Mehnat",
+    "icon": "",
+    "nomi": "Ish haqi to'lanmagani haqida shikoyat",
+    "turi": "shikoyat",
+    "kategoriya_id": "mehnat",
+    "kimga": "[Tuman (shahar)] Davlat mehnat inspeksiyasiga",
+    "mavzu": "Ish haqi to'lanmayotgani to'g'risida",
+    "matn": "Men [tashkilot nomi]da [sana]dan buyon [lavozim] lavozimida ishlayman. [Davr] davomida menga ish haqi to'lanmagan, qarzdorlik [summa] so'mni tashkil etadi.\n\nBu masala yuzasidan ish beruvchiga og'zaki va yozma murojaat qilganman, biroq hozirgacha ish haqi to'lab berilmagan.\n\nYuqoridagilarni inobatga olib, Sizdan ish beruvchi faoliyatini o'rganib, hisoblangan ish haqini to'lash choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Mehnat shartnomasi va ish haqi hisob varaqasi nusxasini ilova qiling"
+    ]
+  },
+  {
+    "id": "bogcha",
+    "guruh": "Ta'lim",
+    "icon": "",
+    "nomi": "Bog'chaga joy so'rash",
+    "turi": "ariza",
+    "kategoriya_id": "maktab_bogcha",
+    "kimga": "[Tuman (shahar)] maktabgacha va maktab ta'limi bo'limiga",
+    "mavzu": "Farzandimni davlat maktabgacha ta'lim tashkilotiga joylashtirish to'g'risida",
+    "matn": "Mening farzandim [F.I.Sh.], [tug'ilgan sana]da tug'ilgan. Farzandimni yashash manzilimizga yaqin bo'lgan [MTT raqami] davlat maktabgacha ta'lim tashkilotiga joylashtirish uchun navbatga qo'yilganmiz, biroq hozirgacha joy ajratilmagan.\n\nYuqoridagilarni inobatga olib, Sizdan farzandimni maktabgacha ta'lim tashkilotiga joylashtirishda ko'maklashishingizni so'rayman.",
+    "maslahatlar": [
+      "Navbat raqamingizni (bog'cha.uz yoki my.gov.uz) arizada ko'rsating"
+    ]
+  },
+  {
+    "id": "svet",
+    "guruh": "Kommunal",
+    "icon": "",
+    "nomi": "Elektr ta'minoti uzilishi",
+    "turi": "shikoyat",
+    "kategoriya_id": "elektr",
+    "kimga": "\"Hududiy elektr tarmoqlari\" AJ [tuman] filialiga",
+    "mavzu": "Elektr energiyasi bilan ta'minlashdagi uzilishlar to'g'risida",
+    "matn": "[Manzil] hududida [sana]dan buyon elektr energiyasi tez-tez uziladi va kuchlanish past. Natijada maishiy texnika ishdan chiqmoqda, aholining kundalik hayotiga jiddiy zarar yetmoqda.\n\nIste'molchi sifatida to'lovlarni o'z vaqtida amalga oshirib kelaman.\n\nYuqoridagilarni inobatga olib, Sizdan uzilishlar sababini aniqlab, elektr ta'minotini barqarorlashtirish choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Hisoblagich raqami va oxirgi to'lov kvitansiyasini ko'rsating"
+    ]
+  },
+  {
+    "id": "gaz",
+    "guruh": "Kommunal",
+    "icon": "",
+    "nomi": "Gaz bosimi past / gaz yo'q",
+    "turi": "shikoyat",
+    "kategoriya_id": "gaz",
+    "kimga": "\"Hududgaztaminot\" AJ [tuman] filialiga",
+    "mavzu": "Tabiiy gaz bilan ta'minlash to'g'risida",
+    "matn": "[Manzil] hududida [sana]dan buyon tabiiy gaz bosimi juda past, ayrim vaqtlarda umuman yo'q. Natijada uyni isitish va ovqat tayyorlash imkoni bo'lmayapti.\n\nYuqoridagilarni inobatga olib, Sizdan muammoni o'rganib, gaz ta'minotini me'yoriga keltirish choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Abonent raqamingizni yozing"
+    ]
+  },
+  {
+    "id": "suv",
+    "guruh": "Kommunal",
+    "icon": "",
+    "nomi": "Ichimlik suvi kelmayapti",
+    "turi": "ariza",
+    "kategoriya_id": "suv_kommunal",
+    "kimga": "[Tuman (shahar)] hokimligiga",
+    "mavzu": "Ichimlik suvi bilan ta'minlash to'g'risida",
+    "matn": "[Manzil] hududida [sana]dan buyon ichimlik suvi kelmayapti yoki juda kam muddatga beriladi. Aholi suvni boshqa joylardan tashib olishga majbur bo'lmoqda.\n\nYuqoridagilarni inobatga olib, Sizdan hududimizni ichimlik suvi bilan uzluksiz ta'minlash choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Mahalladagi boshqa xonadonlar bilan birgalikda murojaat qilish ta'sirliroq bo'ladi"
+    ]
+  },
+  {
+    "id": "yol",
+    "guruh": "Obodonlashtirish",
+    "icon": "",
+    "nomi": "Yo'lni ta'mirlash",
+    "turi": "ariza",
+    "kategoriya_id": "obodonlashtirish",
+    "kimga": "[Tuman (shahar)] hokimligiga",
+    "mavzu": "Ko'chadagi yo'lni ta'mirlash to'g'risida",
+    "matn": "[Ko'cha nomi va manzil] dagi yo'l qoplamasi [muddat]dan buyon buzilgan, chuqurlar paydo bo'lgan. Yog'ingarchilik paytida suv to'planib, piyodalar va transport vositalarining harakatlanishi qiyinlashadi.\n\nYuqoridagilarni inobatga olib, Sizdan mazkur yo'lni ta'mirlash ishlarini rejaga kiritishingizni so'rayman.",
+    "maslahatlar": [
+      "Yo'lning holatini aks ettiruvchi suratlarni ilova qiling"
+    ]
+  },
+  {
+    "id": "tovar",
+    "guruh": "Iste'mol",
+    "icon": "",
+    "nomi": "Sifatsiz tovar uchun pulni qaytarish",
+    "turi": "shikoyat",
+    "kategoriya_id": "istemolchi",
+    "kimga": "[Do'kon / tashkilot nomi] rahbariga",
+    "mavzu": "Sifatsiz tovar uchun to'langan pulni qaytarish to'g'risida (talabnoma)",
+    "matn": "Men [sana]da Sizning do'koningizdan [tovar nomi]ni [summa] so'mga sotib oldim. Foydalanish jarayonida tovarda quyidagi kamchilik aniqlandi: [kamchilik tavsifi].\n\n\"Iste'molchilarning huquqlarini himoya qilish to'g'risida\"gi Qonunga muvofiq, sifatsiz tovar sotilgan taqdirda iste'molchi to'langan pulni qaytarishni yoki tovarni almashtirishni talab qilishga haqli.\n\nYuqoridagilarni inobatga olib, Sizdan to'langan [summa] so'mni qaytarishingizni yoki tovarni sifatlisiga almashtirishingizni so'rayman.",
+    "maslahatlar": [
+      "Chek va kafolat talonini ilova qiling",
+      "Javob olmasangiz, iste'molchilar huquqlarini himoya qilish organiga murojaat qiling"
+    ]
+  },
+  {
+    "id": "moddiy_yordam",
+    "guruh": "Ijtimoiy",
+    "icon": "",
+    "nomi": "Moddiy yordam so'rash",
+    "turi": "ariza",
+    "kategoriya_id": "ijtimoiy",
+    "kimga": "[Tuman (shahar)] hokimligiga",
+    "mavzu": "Moddiy yordam ko'rsatish to'g'risida",
+    "matn": "Oilamiz [oila a'zolari soni] kishidan iborat. Hozirgi kunda [sabab: ishsizlik, kasallik, nogironlik va h.k.] sababli oilamizning moddiy ahvoli og'ir.\n\nYuqoridagilarni inobatga olib, Sizdan oilamizga bir martalik moddiy yordam ko'rsatishingizni va oilamizni ijtimoiy himoya choralariga kiritish masalasini ko'rib chiqishingizni so'rayman.",
+    "maslahatlar": [
+      "Holatingizni tasdiqlovchi hujjatlar (ma'lumotnoma, tibbiy xulosa) nusxalarini ilova qiling"
+    ]
+  },
+  {
+    "id": "pensiya",
+    "guruh": "Ijtimoiy",
+    "icon": "",
+    "nomi": "Pensiyani qayta hisoblash",
+    "turi": "ariza",
+    "kategoriya_id": "ijtimoiy",
+    "kimga": "Ijtimoiy himoya milliy agentligining [tuman (shahar)] bo'limiga",
+    "mavzu": "Pensiyani qayta hisoblash to'g'risida",
+    "matn": "Men [sana]dan buyon pensiya olaman. Pensiyam hisoblanganda [davr]dagi ish stajim va ish haqim hisobga olinmagan deb hisoblayman.\n\nYuqoridagilarni inobatga olib, Sizdan ilova qilingan hujjatlar asosida pensiyamni qayta hisoblab berishingizni so'rayman.",
+    "maslahatlar": [
+      "Mehnat daftarchasi va ish haqi ma'lumotnomasi nusxalarini ilova qiling"
+    ]
+  },
+  {
+    "id": "uy_shirkat",
+    "guruh": "Uy-joy",
+    "icon": "",
+    "nomi": "Uy-joy shirkati faoliyati ustidan",
+    "turi": "shikoyat",
+    "kategoriya_id": "uy_joy",
+    "kimga": "[Tuman (shahar)] hokimligiga",
+    "mavzu": "Uy-joy mulkdorlari shirkati faoliyati to'g'risida",
+    "matn": "Men [manzil] dagi ko'p qavatli uyda yashayman. Uyimizga xizmat ko'rsatuvchi \"[shirkat nomi]\" shirkati [muammo: tom oqishi, lift ishlamasligi, podyezd ta'mirlanmasligi] masalasini [muddat]dan buyon hal qilmayapti, garchi badallar muntazam to'lab kelinsa ham.\n\nYuqoridagilarni inobatga olib, Sizdan shirkat faoliyatini o'rganib, muammoni bartaraf etish choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Qo'shnilaringiz imzosi bilan jamoaviy murojaat qilish mumkin"
+    ]
+  },
+  {
+    "id": "javobsiz",
+    "guruh": "Umumiy",
+    "icon": "",
+    "nomi": "Murojaatga javob berilmagani haqida",
+    "turi": "shikoyat",
+    "kategoriya_id": "mansabdor",
+    "kimga": "[Yuqori turuvchi organ nomi]ga",
+    "mavzu": "Murojaatimga qonunda belgilangan muddatda javob berilmagani to'g'risida",
+    "matn": "Men [sana]da [organ nomi]ga [mavzu] yuzasidan murojaat qilganman (murojaat raqami: [raqam]). Biroq \"Jismoniy va yuridik shaxslarning murojaatlari to'g'risida\"gi Qonunda belgilangan muddat o'tgan bo'lsa-da, hozirgacha javob olmadim va masala hal qilinmadi.\n\nYuqoridagilarni inobatga olib, Sizdan murojaatimning ko'rib chiqilmaganligi sabablarini o'rganib, masalani hal etish choralarini ko'rishingizni so'rayman.",
+    "maslahatlar": [
+      "Avvalgi murojaatingiz nusxasini va yuborilganini tasdiqlovchi hujjatni ilova qiling"
+    ]
+  },
+  {
+    "id": "taklif",
+    "guruh": "Umumiy",
+    "icon": "",
+    "nomi": "Mahalla uchun taklif",
+    "turi": "taklif",
+    "kategoriya_id": "obodonlashtirish",
+    "kimga": "[Tuman (shahar)] hokimligiga",
+    "mavzu": "Mahallamizni obodonlashtirish bo'yicha taklif",
+    "matn": "Men [mahalla nomi] mahallasi aholisi sifatida mahallamizda [taklif mazmuni: bolalar maydonchasi, sport maydoni, ko'cha yoritgichlari va h.k.] tashkil etish taklifini bildiraman.\n\nBu taklif amalga oshirilsa, [foydasi: bolalar xavfsizligi, aholi salomatligi va h.k.] ta'minlanadi.\n\nTaklifimni ko'rib chiqib, tegishli rejalarga kiritishingizni so'rayman.",
+    "maslahatlar": [
+      "\"Ochiq byudjet\" tashabbuslari orqali ham taklif berish mumkin"
+    ]
+  }
+]

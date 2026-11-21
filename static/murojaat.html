@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%230064a9%22/%3E%3Ctext x=%2216%22 y=%2223%22 font-size=%2220%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22 font-weight=%22bold%22%3E%C2%A7%3C/text%3E%3C/svg%3E">
+  <title>Murojaat ustasi — Huquqiy yordamchi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:wght@400;700&display=swap">
+  <link rel="stylesheet" href="/static/css/tw.css">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="min-h-screen">
+  <main class="max-w-6xl mx-auto px-4 pb-16">
+    <div class="pt-8 pb-6">
+      <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight">Murojaat ustasi</h1>
+      <p class="text-slate-600 mt-1">Muammoni oddiy so'z bilan ayting — rasmiy ariza, shikoyat yoki taklifni tizim tuzadi.</p>
+    </div>
+
+    <div class="grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] gap-6 items-start">
+      <!-- Chap: kiritish -->
+      <div class="space-y-5 lg:sticky lg:top-20">
+        <section class="card p-5 sm:p-6">
+          <div class="flex items-center justify-between gap-2 flex-wrap">
+            <div class="flex items-center gap-2"><span class="badge bg-indigo-600 text-white">1</span><h2 class="font-bold">Muammoingizni ayting</h2></div>
+            <button type="button" id="open-templates" class="btn btn-ghost !py-1.5 !px-3 text-sm">Tayyor shablonlar</button>
+          </div>
+
+          <div class="flex flex-wrap gap-2 mt-4" id="templates"></div>
+
+          <div class="mt-4 rounded-2xl border border-slate-200 focus-within:border-indigo-300 focus-within:ring-4 focus-within:ring-indigo-50 transition bg-white">
+            <textarea id="desc" rows="7" class="!border-0 !shadow-none !rounded-2xl !px-4 !pt-4 text-[0.97rem]" placeholder="Masalan: Uyimiz oldidagi yo'l 2 yildan beri ta'mirlanmayapti, yomg'irda o'tib bo'lmaydi…"></textarea>
+            <div class="flex items-center justify-between gap-2 px-2.5 pb-2.5">
+              <div class="flex gap-2">
+                <button type="button" id="mic" class="btn btn-ghost mic !py-2 !px-3 text-sm"><span data-label>Ovoz bilan</span></button>
+                <label class="btn btn-ghost !py-2 !px-3 text-sm cursor-pointer"> Rasm / PDF
+                  <input type="file" id="files" accept="image/*,application/pdf" multiple class="hidden">
+                </label>
+              </div>
+              <span id="count" class="text-xs text-slate-400"></span>
+            </div>
+          </div>
+          <div id="previews" class="flex flex-wrap gap-2 mt-3"></div>
+
+          <details class="mt-4 rounded-2xl border border-slate-200 px-4 py-3 group" id="personal">
+            <summary class="cursor-pointer text-sm font-semibold flex items-center justify-between list-none">
+              <span>Shaxsiy ma'lumotlar</span><span class="text-slate-400 group-open:rotate-180 transition">⌄</span>
+            </summary>
+            <p class="text-xs text-slate-500 mt-1">Faqat hujjatga yoziladi, AI ga yuborilmaydi.</p>
+            <div class="grid gap-2 mt-3">
+              <input type="text" id="fio" placeholder="F.I.Sh." autocomplete="name">
+              <input type="text" id="manzil" placeholder="Yashash manzili" autocomplete="street-address">
+              <input type="tel" id="telefon" placeholder="Telefon raqami" autocomplete="tel">
+            </div>
+          </details>
+
+          <button id="submit" class="btn btn-primary w-full mt-5 !py-3">Murojaat tayyorlash</button>
+          <div data-usage class="flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-slate-500 mt-3"></div>
+        </section>
+
+        <section class="card p-5 sm:p-6">
+          <div class="flex items-center justify-between">
+            <h2 class="font-bold">Mening murojaatlarim</h2>
+            <span class="text-xs text-slate-400">shu qurilmada</span>
+          </div>
+          <div id="saved" class="mt-3 space-y-2"></div>
+        </section>
+      </div>
+
+      <!-- O'ng: natija -->
+      <div id="result" class="space-y-5 min-w-0">
+        <section class="card p-8 sm:p-10 text-center" id="empty">
+          
+          <h3 class="mt-4 font-bold text-lg">Tayyor murojaat shu yerda paydo bo'ladi</h3>
+          <p class="text-sm text-slate-600 mt-2 max-w-md mx-auto">Tizim murojaat turini va mas'ul organni aniqlaydi, rasmiy matnni yozadi. Matnni tahrirlab, Word yoki PDF ko'rinishida yuklab olasiz.</p>
+          <div class="grid grid-cols-3 gap-3 mt-6 text-xs text-slate-600 max-w-md mx-auto">
+            <div class="rounded-xl bg-slate-50 p-3">Mas'ul organ</div>
+            <div class="rounded-xl bg-slate-50 p-3">Javob muddati</div>
+            <div class="rounded-xl bg-slate-50 p-3">Word / PDF</div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <div id="print-area"></div>
+
+  <script src="/static/js/common.js"></script>
+  <script src="/static/js/murojaat.js"></script>
+</body>
+</html>

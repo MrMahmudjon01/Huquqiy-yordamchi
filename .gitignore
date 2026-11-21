@@ -1,0 +1,40 @@
+# Muhit va kesh
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.idea/
+.vscode/
+.claude/
+
+# Maxfiy sozlamalar
+.env
+.env.*
+!.env.example
+
+# Ma'lumotlar — kompyuterda qoladi, repoga kirmaydi:
+# foydalanuvchilar bazasi, lex.uz to'liq bazasi (1.7 GB), vektorlar, loglar, zaxira nusxalar.
+# Faqat avvaldan kuzatilayotgan qonun matnlari (data/laws) va tayyor indeks (data/index) repoda qoladi.
+data/*
+!data/laws/
+!data/index/
+data/index/embed_cache*
+data/index/*.tmp.npy
+
+# Boshqa ortiqcha fayllar
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+*.log
+*.bak
+*.npy
+*.zip
+
+# Repoga kerak emas (kompyuterda qoladi): server/deploy sozlamalari, ma'lumot yuklash va qurish skriptlari
+railway.json
+Procfile
+DEPLOY.md
+.python-version
+requirements-semantic.txt
+scripts/

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%230064a9%22/%3E%3Ctext x=%2216%22 y=%2223%22 font-size=%2220%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22 font-weight=%22bold%22%3E%C2%A7%3C/text%3E%3C/svg%3E">
+  <title>Narxlar — Huquqiy yordamchi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:wght@400;700&display=swap">
+  <link rel="stylesheet" href="/static/css/tw.css">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="min-h-screen">
+  <main class="max-w-6xl mx-auto px-4 pb-6">
+    <section class="text-center pt-12 sm:pt-16">
+      <h1 class="text-3xl sm:text-5xl font-extrabold tracking-tight">Oddiy narxlar.<br><span class="gradient-text">Huquqiy yordam hamma uchun.</span></h1>
+      <p class="mt-4 text-slate-600 max-w-xl mx-auto">Bepul boshlang. Ko'proq kerak bo'lsa — Premium yoki jamoangiz uchun Biznes tarifiga o'ting.</p>
+      <div class="toggle mt-7" role="group" aria-label="To'lov davri">
+        <button type="button" data-period="month" aria-pressed="true">Oylik</button>
+        <button type="button" data-period="year" aria-pressed="false">Yillik <span class="text-emerald-500">−20%</span></button>
+      </div>
+    </section>
+
+    <section id="plans" class="grid md:grid-cols-3 gap-5 mt-10 items-stretch"></section>
+
+    <section class="mt-8 card p-5 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="text-sm text-slate-600"><b class="text-slate-800">To'lov usullari</b> — ishga tushirilganda:</div>
+      <div class="flex flex-wrap gap-2">
+        <span class="badge bg-sky-50 text-sky-700 !text-sm">Click</span>
+        <span class="badge bg-cyan-50 text-cyan-700 !text-sm">Payme</span>
+        <span class="badge bg-indigo-50 text-indigo-700 !text-sm">Uzcard</span>
+        <span class="badge bg-emerald-50 text-emerald-700 !text-sm">Humo</span>
+      </div>
+    </section>
+
+    <!-- Taqqoslash -->
+    <section class="mt-16">
+      <h2 class="text-2xl font-extrabold tracking-tight text-center">Imkoniyatlarni taqqoslang</h2>
+      <div class="card mt-6 overflow-x-auto">
+        <table class="w-full text-sm min-w-[560px]">
+          <thead><tr class="text-left"><th class="p-4 font-semibold text-slate-500">Imkoniyat</th><th class="p-4 text-center">Bepul</th><th class="p-4 text-center text-indigo-700">Premium</th><th class="p-4 text-center">Biznes</th></tr></thead>
+          <tbody id="compare"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Daromad modeli -->
+    <section class="mt-16">
+      <div class="text-center">
+        <span class="badge bg-indigo-50 text-indigo-700">Biznes model</span>
+        <h2 class="mt-3 text-2xl sm:text-3xl font-extrabold tracking-tight">Loyiha qanday daromad qiladi</h2>
+        <p class="text-slate-600 mt-2 max-w-2xl mx-auto">Asosiy daromad — obuna. Fuqarolar uchun bepul tarif doim qoladi: bu foydalanuvchilar oqimini va ijtimoiy ta'sirni ta'minlaydi.</p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
+        <div class="card p-5"><h3 class="font-bold mt-3">B2C obuna</h3><p class="text-sm text-slate-600 mt-1.5">Fuqarolar uchun Premium: cheksiz so'rov, ovoz, rasm, eslatmalar. Asosiy daromad manbai.</p></div>
+        <div class="card p-5"><h3 class="font-bold mt-3">B2B obuna</h3><p class="text-sm text-slate-600 mt-1.5">Yuristlar, notarial idoralar, HR bo'limlari va kichik biznes uchun jamoaviy Biznes tarif.</p></div>
+        <div class="card p-5"><h3 class="font-bold mt-3">B2G litsenziya</h3><p class="text-sm text-slate-600 mt-1.5">Davlat organlari uchun kelib tushgan murojaatlarni avtomatik tasniflash va yo'naltirish moduli.</p></div>
+        <div class="card p-5"><h3 class="font-bold mt-3">Hamkorlik</h3><p class="text-sm text-slate-600 mt-1.5">Murakkab holatlarda foydalanuvchini yurist, notarius yoki mediatorga yo'naltirish uchun hamkorlik to'lovi.</p></div>
+      </div>
+
+      <!-- Daromad kalkulyatori -->
+      <div class="card p-6 sm:p-8 mt-6">
+        <div class="flex flex-col lg:flex-row gap-8 lg:items-center">
+          <div class="flex-1 space-y-6">
+            <h3 class="font-bold text-lg">Daromad kalkulyatori</h3>
+            <label class="block">
+              <div class="flex justify-between text-sm"><span>Premium obunachilar</span><b id="v-premium"></b></div>
+              <input type="range" id="r-premium" min="0" max="20000" step="100" value="2000" class="w-full mt-2 accent-indigo-600">
+            </label>
+            <label class="block">
+              <div class="flex justify-between text-sm"><span>Biznes mijozlar</span><b id="v-biz"></b></div>
+              <input type="range" id="r-biz" min="0" max="1000" step="10" value="100" class="w-full mt-2 accent-violet-600">
+            </label>
+            <p class="text-xs text-slate-500">Hisob oylik narxlar asosida. Bu prognoz emas — tarif narxlari va obunachilar soniga qarab o'zgaradi.</p>
+          </div>
+          <div class="lg:w-80 rounded-2xl p-6 text-white" style="background:linear-gradient(135deg,#4f46e5,#7c3aed)">
+            <div class="text-sm opacity-80">Oylik daromad</div>
+            <div class="text-3xl sm:text-4xl font-extrabold mt-1" id="rev-month"></div>
+            <div class="text-sm opacity-80 mt-4">Yillik daromad</div>
+            <div class="text-2xl font-bold mt-1" id="rev-year"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Savollar -->
+    <section class="mt-16 max-w-3xl mx-auto">
+      <h2 class="text-2xl font-extrabold tracking-tight text-center">Ko'p beriladigan savollar</h2>
+      <div class="mt-6 space-y-3" id="faq"></div>
+    </section>
+  </main>
+
+  <script src="/static/js/common.js"></script>
+  <script src="/static/js/narxlar.js"></script>
+</body>
+</html>

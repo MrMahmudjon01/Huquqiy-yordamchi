@@ -1,0 +1,510 @@
+Manba: https://lex.uz/uz/docs/-6764454
+
+Oʻzbekiston Respublikasining Qonuni
+
+Yoʻl harakati toʻgʻrisida
+
+1-bob. Umumiy qoidalar
+
+1-modda. Ushbu Qonunning maqsadi
+Ushbu Qonunning maqsadi yoʻl harakati sohasidagi munosabatlarni tartibga solishdan iborat.
+
+2-modda. Yoʻl harakati toʻgʻrisidagi qonunchilik
+Yoʻl harakati toʻgʻrisidagi qonunchilik ushbu Qonun va boshqa qonunchilik hujjatlaridan iboratdir.
+Agar Oʻzbekiston Respublikasining xalqaro shartnomasida Oʻzbekiston Respublikasining yoʻl harakati toʻgʻrisidagi qonunchiligida nazarda tutilganidan boshqacha qoidalar belgilangan boʻlsa, xalqaro shartnoma qoidalari qoʻllaniladi.
+
+3-modda. Yoʻl tushunchasi
+Transport vositalari va piyodalar harakatlanishi uchun jihozlangan, moslashtirilgan hamda transport vositalari va piyodalarning harakat xavfsizligini taʼminlashga moʻljallangan yoʻl obyektlari majmuasini joylashtirish uchun ajratilgan yer uchastkalari hamda yer uchastkalari ustidagi boʻshliq yoʻldir.
+Yoʻllar umumiy foydalanishdagi avtomobil yoʻllariga (bundan buyon matnda umumiy foydalanishdagi yoʻllar deb yuritiladi), tumanlar (shaharlar), shaharchalar, qishloqlar va ovullarning koʻchalariga, xoʻjalik yoʻllariga, shahar elektr transporti yoʻllariga, velosiped va piyodalar yoʻlkalariga ajratiladi.
+Qishloq joylardan oʻtadigan va xoʻjaliklarni oʻzaro bogʻlaydigan yoʻllar xoʻjaliklararo qishloq yoʻllaridir.
+
+4-modda. Asosiy tushunchalar
+Ushbu Qonunda quyidagi asosiy tushunchalar qoʻllaniladi:
+yoʻl obyektlari — yoʻlning konstruktiv elementlari boʻlgan yoʻl sunʼiy inshootlari (koʻpriklar, yoʻl oʻtkazgichlar, osma koʻpriklar, quvurlar, tunnellar va boshqa muhandislik inshootlari), himoya qilish inshootlari (yoʻllarni qor koʻchkilaridan, yer choʻkishidan, yer koʻchkilaridan himoya qilish qurilmalari va boshqa qurilmalar), shuningdek yoʻllarni jihozlash elementlari (toʻxtash maydonchalari, yoʻlovchilar uchun pavilyonlar, dam olish maydonchalari, transport vositalarining toʻxtab turish joylari va boshqalar);
+yoʻl egasi — yoʻl qaysi korxonalar, muassasalar, tashkilotlar yoki jismoniy shaxslar ixtiyorida boʻlsa, oʻsha korxonalar, muassasalar tashkilotlar yoki jismoniy shaxslar;
+yoʻl harakati — yoʻl harakatini tashkil etishda yoʻllar doirasida transport vositalari va yoʻl harakati ishtirokchilari ishtirokida yuzaga keladigan ijtimoiy munosabatlar majmui;
+yoʻl harakati ishtirokchisi — yoʻl harakati jarayonida transport vositasining haydovchisi, yoʻlovchisi yoki piyoda sifatida bevosita ishtirok etayotgan shaxs;
+yoʻl harakati monitoringi — yoʻl harakatini tashkil etishning asosiy koʻrsatkichlari toʻgʻrisidagi hamda yoʻl harakatini tashkil etishning texnik vositalari holati haqidagi axborotni hisobga olish, umumlashtirish, unga ishlov berish va uni tahlil qilish;
+yoʻl harakatini tashkil etish — yoʻl harakatini boshqarish hamda yoʻl harakati xavfsizligini taʼminlash boʻyicha tashkiliy-huquqiy, tashkiliy-texnik tadbirlar va boshqaruv harakatlari majmui;
+yoʻl harakatini tashkil etish loyihalarining auditi — tashkilotlarning yoʻllarni loyihalashtirish (loyihalash tashkilotidan mustaqil ravishda), qurish, rekonstruksiya qilish, taʼmirlash va ulardan foydalanish chogʻidagi faoliyati natijalarining yoʻl harakatini tashkil etish boʻyicha normativ-texnik hujjatlarning amaldagi talablariga muvofiqligini tekshirish;
+yoʻl harakatini tashkil etishning texnik vositalari — yoʻl harakatini tashkil etish uchun moʻljallangan qurilmalar va inshootlar (yoʻl belgilari, harakatlanish polosalari, svetoforlar, miltillovchi mayoqchalar, yoʻl chiziqlari, yoʻl ustunlari, toʻsiqlari, tezlikni cheklovchi qurilmalar, shlagbaumlar, xavfsizlik orolchalari, yoʻl harakatini avtomatik boshqarish tizimlari (vositalari), shuningdek boshqa qurilmalar va inshootlar);
+yoʻl harakati xavfsizligi — yoʻl harakati ishtirokchilarining yoʻl-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yoʻl harakati holati;
+yoʻlning oʻtkazuvchanlik qobiliyati — yoʻlning muayyan uchastkasidagi bir yoʻnalishda transport vositalari harakatlanishi jadalligining eng yuqori koʻrsatkichi;
+yoʻl-transport hodisasi — transport vositasining yoʻlda harakatlanishi jarayonida va uning ishtirokida sodir boʻlgan, fuqarolar vafot etgan yoki ularning sogʻligʻiga zarar yetkazilgan, transport vositalari, inshootlar, yuklar shikastlangan yoxud boshqa moddiy zarar yetkazilgan hodisa;
+temir yoʻl kesishmasi — yoʻlning temir yoʻllar bilan bir sathda kesishgan joyi;
+transport vositasi — yoʻlovchilarning, bagajning, yuk bagajining, yuklarning, pochta va kuryerlik joʻnatmalarining yoki maxsus ishlarni amalga oshirish uchun uskunalarning yoʻllarda harakatlanishi yoki tashilishi uchun moʻljallangan qurilma;
+transport vositalarining toʻxtab turish joylari (bundan buyon matnda toʻxtab turish joylari deb yuritiladi) — transport vositalarini vaqtincha yoki doimiy saqlash uchun moʻljallangan, yoʻlning kengaytirilib qatnov qismidan ajratilgan uchastkasi, bino, inshoot (ularning bir qismi), maxsus ochiq maydoncha;
+haydovchi — transport vositasini boshqaruvchi shaxs. Transport vositasini boshqarish oʻrgatilayotganda oʻrgatuvchi shaxs haydovchi deb hisoblanadi.
+
+5-modda. Yoʻl harakati sohasidagi asosiy prinsiplar
+Yoʻl harakati sohasidagi asosiy prinsiplar quyidagilardan iborat:
+qonuniylik;
+tizimlilik;
+ilmiylik;
+ochiqlik va oshkoralik;
+fuqarolar hayoti va sogʻligʻi muhofaza qilinishining ustuvorligi;
+ekologik xavfsizlikning va atrof-muhit muhofaza qilinishining ustuvorligi;
+mahalliy aholi va yoʻl harakati ishtirokchilari fikrining inobatga olinishi.
+
+2-bob. Yoʻl harakati sohasini tartibga solish
+
+6-modda. Yoʻl harakati sohasidagi davlat boshqaruvi
+Yoʻl harakati sohasidagi davlat boshqaruvi Oʻzbekiston Respublikasi Vazirlar Mahkamasi, mahalliy davlat hokimiyati organlari va yoʻl harakati sohasidagi maxsus vakolatli davlat organlari tomonidan amalga oshiriladi.
+Oʻzbekiston Respublikasi Transport vazirligi va uning tasarrufidagi tashkilotlar, Oʻzbekiston Respublikasi Ichki ishlar vazirligi Jamoat xavfsizligi departamentining Yoʻl harakati xavfsizligi xizmati, Qoraqalpogʻiston Respublikasi Ichki ishlar vazirligi, Toshkent shahar va Toshkent viloyati ichki ishlar bosh boshqarmalari, viloyatlar ichki ishlar boshqarmalari jamoat xavfsizligi xizmatining yoʻl harakati xavfsizligi boshqarmalari, shuningdek tuman (shahar) ichki ishlar boʻlimlari (ichki ishlar organlari faoliyatini muvofiqlashtirish boshqarmalari) jamoat xavfsizligi xizmatining yoʻl harakati xavfsizligi boʻlinmalari (bundan buyon matnda Davlat yoʻl harakati xavfsizligi xizmati deb yuritiladi), Oʻzbekiston Respublikasi Prezidenti davlat xavfsizlik xizmati, Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Bojxona qoʻmitasi yoʻl harakati sohasidagi maxsus vakolatli davlat organlari (bundan buyon matnda maxsus vakolatli davlat organlari deb yuritiladi) jumlasiga kiradi.
+
+7-modda. Oʻzbekiston Respublikasi Vazirlar Mahkamasining yoʻl harakati sohasidagi vakolatlari
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi:
+yoʻl harakati sohasidagi davlat dasturlarini tasdiqlaydi va ularning amalga oshirilishini taʼminlaydi;
+yoʻl harakati sohasidagi normativ-huquqiy hujjatlarni oʻz vakolatlari doirasida ishlab chiqadi va qabul qiladi;
+respublika ijro etuvchi hokimiyat organlarining, mahalliy ijro etuvchi hokimiyat organlarining yoʻl harakati sohasidagi faoliyatini muvofiqlashtiradi;
+yoʻl harakati sohasi bilan bogʻliq mutaxassisliklar, kasblar va lavozimlar roʻyxatini, shuningdek ularga doir malaka talablarini belgilaydi;
+yoʻl harakatini tashkil etishning asosiy koʻrsatkichlarini shakllantirish, ularning hisobini yuritish va ulardan foydalanish tartibini tasdiqlaydi;
+transport vositalari va yoʻllarning texnik holatiga, yoʻllarda va temir yoʻllar kesishmalarida yoʻl harakati xavfsizligiga doir yagona talablarni belgilaydi;
+transport vositalarining haydovchilarini tayyorlashga, shuningdek aholiga Yoʻl harakati qoidalarini oʻrgatishga doir umumiy talablarni belgilaydi;
+haydovchilarni, transport vositalarini, Yoʻl harakati qoidalarining buzilishlarini, yoʻl-transport hodisalarini va yoʻl harakati sohasidagi boshqa maʼlumotlarni hisobga olishning yagona tizimini tasdiqlaydi.
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+8-modda. Mahalliy davlat hokimiyati organlarining yoʻl harakati sohasidagi vakolatlari
+Mahalliy davlat hokimiyati vakillik organlari yoʻl harakati sohasidagi hududiy dasturlarni tasdiqlaydi va ularning bajarilishi ustidan nazoratni amalga oshiradi.
+Mahalliy ijro etuvchi hokimiyat organlari:
+yoʻl harakati sohasidagi davlat dasturlarini amalga oshirishda ishtirok etadi;
+yoʻl harakati sohasidagi hududiy dasturlarni ishlab chiqadi, tasdiqlash uchun mahalliy davlat hokimiyati vakillik organlariga kiritadi va ularning amalga oshirilishini taʼminlaydi;
+xoʻjaliklararo qishloq yoʻllarida, tumanlar (shaharlar), shaharchalar, qishloqlar va ovullarning koʻchalarida yoʻl harakati monitoringini tashkil etadi hamda amalga oshiradi;
+xoʻjaliklararo qishloq yoʻllarida, tumanlar (shaharlar), shaharchalar, qishloqlar va ovullarning koʻchalarida joylashgan toʻxtab turish joylarining, shu jumladan pulli toʻxtab turish joylarining reyestrini yuritadi;
+Davlat yoʻl harakati xavfsizligi xizmati bilan kelishuvga koʻra, xoʻjaliklararo qishloq yoʻllarida, tumanlar (shaharlar), shaharchalar, qishloqlar va ovullarning koʻchalarida yoʻl harakatini tashkil etishning texnik vositalari oʻrnatilishini, almashtirilishini, olib tashlanishini va ularga texnik xizmat koʻrsatilishini amalga oshiradi;
+yoʻl harakatini tashkil etishning texnik vositalari joylashuvini yuritadi hamda ularning joylashuvga muvofiqligi va texnik holati ustidan nazoratni amalga oshiradi;
+yoʻl harakati sohasiga axborot-kommunikatsiya texnologiyalarini joriy etadi;
+yoʻllarga tutash boʻlgan hududlarda xizmat koʻrsatish infratuzilmasi obyektlarini tashkil etadi va rivojlantiradi;
+yoʻl harakati xavfsizligi tibbiy jihatdan taʼminlanishini, shuningdek yoʻl-transport hodisalarida jabrlanganlarga tibbiy yordam koʻrsatilishini tashkil etadi;
+xoʻjaliklararo qishloq yoʻllarining, tumanlar (shaharlar), shaharchalar, qishloqlar va ovullar koʻchalarining, shahar elektr transporti yoʻllarining, shuningdek yoʻl harakatini tashkil etish texnik vositalarining jihozlanishini va soz holatda saqlanishini taʼminlaydi;
+yoʻl-transport hodisalarining profilaktikasi boʻyicha choralar koʻradi, aholi oʻrtasida Yoʻl harakati qoidalariga rioya etilishi boʻyicha targʻibotni amalga oshiradi.
+Mahalliy davlat hokimiyati organlari qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+9-modda. Oʻzbekiston Respublikasi Transport vazirligi va uning tasarrufidagi tashkilotlarning yoʻl harakati sohasidagi vakolatlari
+Oʻzbekiston Respublikasi Transport vazirligi va uning tasarrufidagi tashkilotlar:
+yoʻl harakati sohasidagi davlat dasturlarini ishlab chiqishda va amalga oshirishda ishtirok etadi;
+yoʻl harakati sohasidagi normativ-huquqiy hujjatlar va normativ hujjatlar loyihalarini oʻz vakolatlari doirasida ishlab chiqadi;
+yoʻl harakati sohasidagi davlat nazoratini oʻz vakolatlari doirasida amalga oshiradi;
+yoʻl harakati sohasidagi tadbirlarni ishlab chiqadi va amalga oshiradi hamda ularni oʻtkazishga doir uslubiy tavsiyalarni tasdiqlaydi;
+umumiy foydalanishdagi yoʻllarda yoʻl harakati monitoringini tashkil etadi va amalga oshiradi;
+Davlat yoʻl harakati xavfsizligi xizmati bilan kelishuvga koʻra, umumiy foydalanishdagi yoʻllarda yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatish loyihalarini tayyorlaydi, ushbu vositalarni oʻrnatish, almashtirish, olib tashlashni va ularga texnik xizmat koʻrsatishni amalga oshiradi;
+yoʻl harakatini tashkil etishning texnik vositalari joylashuvini yuritadi hamda ularning joylashuvga muvofiqligi va texnik holati ustidan davlat nazoratini amalga oshiradi;
+yoʻllarning harakat uchun xavfli uchastkalarini aniqlaydi va bunday uchastkalarda yoʻl harakatini tashkil etishni takomillashtirish boʻyicha choralar koʻradi;
+yoʻl harakatini tashkil etish loyihalarining auditini oʻtkazadi;
+yoʻl harakatini tashkil etishda, yoʻllardan foydalanishda, shuningdek yoʻl harakati ishtirokchilariga logistikani tashkil etish va xizmatlar koʻrsatish chogʻida axborot-kommunikatsiya texnologiyalarini joriy etadi;
+yoʻl harakati sohasida band boʻlgan mutaxassislarni tayyorlashni, qayta tayyorlashni va ularning malakasini oshirishni amalga oshiradi;
+umumiy foydalanishdagi yoʻllar boʻyida joylashgan toʻxtab turish joylarining, shu jumladan pulli toʻxtab turish joylarining reyestrini yuritadi;
+ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining harakatlanish yoʻnalishlarini belgilaydi, shuningdek yoʻl-xizmat koʻrsatish obyektlarini joylashtirishni kelishadi;
+yoʻllarni, temir yoʻllar kesishmalarini, shuningdek avtomobillarga yoqilgʻi quyish stansiyalarini hamda yoʻl boʻyi hududlarida joylashgan boshqa xizmat koʻrsatish obyektlarini qurish, rekonstruksiya qilish hamda kapital taʼmirlash loyihalarini yoʻl harakatini tashkil etishga oid qism boʻyicha koʻrib chiqadi va kelishadi;
+qurilishi (rekonstruksiya qilinishi) va kapital taʼmirlanishi tugallangan yoʻl obyektlarini, temir yoʻllar kesishmalarini foydalanishga qabul qilish boʻyicha komissiyalarning ishida ishtirok etadi;
+temir yoʻllar kesishmalaridan foydalanish, ularning ochilishi va yopilishi tartibini belgilaydi;
+ekstremal iqlim sharoitlarida, xususan, havo harorati koʻtarilib ketgan sharoitlarda yoʻllarning va yoʻl sunʼiy inshootlarining texnik holatini saqlash maqsadida sutkaning muayyan vaqtida N2, N3 va M3 toifasidagi transport vositalarining harakatlanishini belgilangan tartibda cheklaydi.
+Oʻzbekiston Respublikasi Transport vazirligi va uning tasarrufidagi tashkilotlar qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+10-modda. Davlat yoʻl harakati xavfsizligi xizmatining yoʻl harakati sohasidagi vakolatlari
+Davlat yoʻl harakati xavfsizligi xizmati:
+yoʻl harakati sohasidagi davlat dasturlarini ishlab chiqishda va amalga oshirishda ishtirok etadi;
+yoʻl harakati sohasidagi normativ-huquqiy hujjatlar va normativ hujjatlar loyihalarini oʻz vakolatlari doirasida ishlab chiqadi;
+yoʻl harakati toʻgʻrisidagi qonunchilikka rioya etilishi ustidan davlat nazoratini oʻz vakolatlari doirasida amalga oshiradi;
+ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining harakatlanish yoʻnalishlarini belgilashda ishtirok etadi;
+yoʻllarni, temir yoʻllar kesishmalarini, shuningdek avtomobillarga yoqilgʻi quyish stansiyalarini va yoʻllar boʻylab hamda yoʻl boʻyi hududlarida joylashgan boshqa inshootlarni qurish, rekonstruksiya qilish hamda kapital taʼmirlash loyihalarini yoʻl harakatini tashkil etishga oid qism boʻyicha koʻrib chiqadi va kelishadi;
+qurilishi (rekonstruksiya qilinishi) va kapital taʼmirlanishi tugallangan yoʻl obyektlarini, temir yoʻllar kesishmalarini foydalanishga qabul qilish boʻyicha komissiyalarning ishida ishtirok etadi;
+foydalanishdagi transport vositalarining texnik holati ustidan nazoratni amalga oshiradi, transport vositalarining majburiy texnik koʻrigini oʻtkazadi (bundan jismoniy shaxslarga tegishli boʻlgan M1 toifasidagi transport vositalari mustasno);
+yoʻl harakatining monitoringini tashkil etadi va amalga oshiradi;
+yoʻl harakatini tashkil etish texnik vositalarining texnik holati, shuningdek yoʻllarning va temir yoʻllar kesishmalarining saqlanishi, ularning yoʻl harakatini tartibga solish vositalari bilan jihozlanishi ustidan nazoratni amalga oshiradi;
+yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq boʻlmagan yoʻllardan va temir yoʻllar kesishmalaridan foydalanishni belgilangan tartibda taqiqlaydi;
+yoʻl harakatini tashkil etish boʻyicha faoliyatni amalga oshiradi;
+yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatish yoki olib tashlash yuzasidan yoʻl egalariga koʻrsatmalar kiritadi, ularni bajarish muddatlari va sifati ustidan nazoratni amalga oshiradi;
+yoʻlda (yoʻlning uchastkasida) transport vositalarining harakatlanishini ushbu Qonunning 23-moddasiga muvofiq cheklaydi yoki taqiqlaydi;
+yoʻl harakati sohasiga axborot-kommunikatsiya texnologiyalarini joriy etadi;
+yoʻllarda va yoʻl boʻyi hududlarida ishlarni amalga oshirish boʻyicha tegishli tashkilotlar bilan kelishilgan takliflarni koʻrib chiqadi;
+oʻz vakolatlari doirasida davlat organlariga yoki boshqa tashkilotlarga, ularning mansabdor shaxslariga yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatish va ulardan foydalanishga doir faoliyatidagi kamchiliklarni bartaraf etish haqida, biron-bir yoʻl uchastkasida harakat xavfsizligiga tahdid soluvchi, Yoʻl harakati qoidalarining buzilishiga imkon beruvchi vaziyat yuzaga kelganda kamchiliklarni bartaraf etish toʻgʻrisida bajarilishi majburiy boʻlgan taqdimnomalar kiritadi, mazkur yozma taqdimnomalarni bajarish choralari koʻrilmagan taqdirda maʼmuriy jazolar qoʻllaydi;
+yoʻl harakatini tashkil etishning texnik vositalari loyihalashtirilishini, oʻrnatilishini (montaj qilinishini), almashtirilishini, olib tashlanishini tashkil etadi, bu ishlarning bajarilishini nazorat qiladi;
+Toshkent va Nukus shaharlarining, viloyat, tuman (shahar) markazlarining koʻchalarida yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatishni (montaj qilishni), almashtirishni, olib tashlashni hamda ularga texnik xizmatlar koʻrsatishni amalga oshiradi;
+Toshkent va Nukus shaharlarining, viloyat, tuman (shahar) markazlarining koʻchalarida yoʻl harakatini tashkil etish texnik vositalarining joylashuvini yuritadi va ularning joylashuvga muvofiqligi hamda texnik holati ustidan davlat nazoratini amalga oshiradi;
+transport vositalarining, Yoʻl harakati qoidalari buzilishlarining hamda yoʻl-transport hodisalarining hisobini yuritadi va ularning roʻyxatga olinishini amalga oshiradi;
+milliy haydovchilik guvohnomalarini, avtomototransport vositalari roʻyxatdan oʻtkazilganligi toʻgʻrisidagi guvohnomalarni hamda avtomototransport vositalari va ularning tirkamalari (yarim tirkamalari) uchun roʻyxatdan oʻtkazish davlat raqami belgilarini beradi;
+maʼmuriy huquqbuzarliklar toʻgʻrisidagi ishlarni oʻz vakolatlari doirasida koʻrib chiqadi.
+Davlat yoʻl harakati xavfsizligi xizmati qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+11-modda. Oʻzbekiston Respublikasi Prezidenti davlat xavfsizlik xizmatining yoʻl harakati sohasidagi vakolatlari
+Oʻzbekiston Respublikasi Prezidenti davlat xavfsizlik xizmati:
+maxsus vakolatli davlat organlariga qoʻriqlanadigan shaxslar turgan obyektlar atrofida hamda ularning harakatlanish yoʻnalishlari (doimiy, muntazam va zaxira) boʻylab yoʻl harakatini tashkil etish boʻyicha tadbirlarni ishlab chiqish toʻgʻrisida takliflar kiritadi va ularning bajarilishi ustidan nazoratni amalga oshiradi;
+qoʻriqlanadigan shaxslar turgan obyektlar atrofida hamda ularning harakatlanish yoʻnalishlari (doimiy, muntazam va zaxira) boʻylab rejalashtirilayotgan har qanday turdagi ishlarni bajarishga doir takliflarni koʻrib chiqadi;
+qoʻriqlanadigan shaxslar turgan obyektlar atrofida hamda ularning harakatlanish yoʻnalishlari (doimiy, muntazam va zaxira) boʻylab joylashgan yer osti kommunikatsiya tarmoqlarini, temir yoʻllar kesishmalarini, avtomobillarga yoqilgʻi quyish stansiyalarini, yoʻl obyektlarini taʼmirlash, qurish, rekonstruksiya qilish boʻyicha loyihalarni koʻrib chiqadi va kelishadi;
+qoʻriqlanadigan shaxslar turgan obyektlar va ularning harakatlanish yoʻnalishlari (doimiy, muntazam va zaxira) boʻylab joylashgan, qurilishi rejalashtirilgan obyektlarga olib boruvchi alohida yoʻllarni ochish yoki yopish toʻgʻrisida mahalliy ijro etuvchi hokimiyat organlari kiritadigan takliflarni Davlat yoʻl harakati xavfsizligi xizmati tomonidan oʻrganilganidan keyin kelishadi;
+qoʻriqlanadigan shaxslar turgan obyektlar atrofida hamda ularning harakatlanish yoʻnalishlari (doimiy, muntazam va zaxira) boʻylab yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatish (montaj qilish), almashtirish va olib tashlash boʻyicha takliflarni koʻrib chiqadi;
+qoʻriqlanadigan shaxslar turgan obyektlar hududida hamda ularning harakatlanish yoʻnalishlarida (doimiy, muntazam va zaxira) yoʻl harakatini tashkil etish hamda yoʻl harakati ustidan navbatdan tashqari nazorat olib borish yuzasidan maxsus vakolatli davlat organlariga topshiriqlar beradi.
+Oʻzbekiston Respublikasi Prezidenti davlat xavfsizlik xizmati qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+12-modda. Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Bojxona qoʻmitasining yoʻl harakati sohasidagi vakolatlari
+Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Bojxona qoʻmitasi:
+bojxona postlari hududlarida yoʻl harakatini tashkil etadi;
+bojxona postlari hududlarini yoʻl harakatini tashkil etishning texnik vositalari bilan taʼminlaydi;
+chet davlatlarda roʻyxatdan oʻtkazilgan va haydovchilari Oʻzbekiston Respublikasi hududida Yoʻl harakati qoidalarini buzgan transport vositalarini Oʻzbekiston Respublikasi hududidan olib chiqib ketayotgan haydovchilardan yoki boshqa shaxslardan Oʻzbekiston Respublikasi hududida Yoʻl harakati qoidalarini buzganlik uchun tayinlangan jarimalar undirilishini taʼminlaydi.
+Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Bojxona qoʻmitasi qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+13-modda. Fuqarolar oʻzini oʻzi boshqarish organlarining, nodavlat notijorat tashkilotlarining va fuqarolarning yoʻl harakati sohasidagi tadbirlarni amalga oshirishda ishtirok etishi
+Fuqarolarning oʻzini oʻzi boshqarish organlari, nodavlat notijorat tashkilotlari va fuqarolar:
+yoʻl harakatini tashkil etish boʻyicha tadbirlarni amalga oshirishda, shuningdek yoʻl-transport hodisalarining profilaktikasida ishtirok etadi;
+yoʻl harakati toʻgʻrisidagi qonunchilikni, yoʻl harakati sohasidagi normativ hujjatlarni takomillashtirish boʻyicha takliflar kiritadi;
+yoʻl harakati toʻgʻrisidagi qonunchilikning ijro etilishi ustidan jamoatchilik nazoratini amalga oshiradi;
+davlat hokimiyati organlari va respublika ijro etuvchi hokimiyat organlari tomonidan yoʻl harakati sohasidagi qarorlarni ishlab chiqishda qonunchilikda nazarda tutilgan tartibda ishtirok etadi.
+Fuqarolarning oʻzini oʻzi boshqarish organlari, nodavlat notijorat tashkilotlari va fuqarolar qonunchilikka muvofiq boshqa tadbirlarda ham ishtirok etishi mumkin.
+
+14-modda. Korxonalar, muassasalar va tashkilotlarning yoʻl harakati sohasidagi tadbirlarni amalga oshirishda ishtirok etishi
+Mahalliy ijro etuvchi hokimiyat organlari va maxsus vakolatli davlat organlari tomonidan yoʻl harakati sohasidagi tadbirlar korxonalar, muassasalar va tashkilotlar, shu jumladan tadbirkorlik subyektlari jalb etilgan holda amalga oshirilishi mumkin.
+Korxonalar, muassasalar va tashkilotlar, shu jumladan tadbirkorlik subyektlari yoʻl harakati sohasidagi tadbirlarni amalga oshirishda qonunchilikda belgilangan tartibda ishtirok etadi.
+
+15-modda. Yoʻl egasining huquq va majburiyatlari
+Yoʻl egasi quyidagi huquqlarga ega:
+yoʻllarni qurish, taʼmirlash va rekonstruksiya qilish loyihalarini kelishib olish va tasdiqlashda, shuningdek taʼmirlash ishlarini tashkil etishda ishtirok etish;
+ekstremal iqlim sharoitlarida, xususan, havo harorati koʻtarilib ketgan sharoitlarda yoʻllarning va yoʻl sunʼiy inshootlarining texnik holatini saqlab turish maqsadida sutkaning muayyan vaqtida N2, N3 va M3 toifasidagi transport vositalarining harakatlanishini cheklash toʻgʻrisida Davlat yoʻl harakati xavfsizligi xizmatiga takliflar kiritish.
+Yoʻl egasi qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi mumkin.
+Yoʻl egasi:
+yoʻllarda yoʻl harakatini tashkil etishning texnik vositalari oʻrnatilishini (montaj qilinishini), almashtirilishini, olib tashlanishini, ularga texnik xizmat koʻrsatilishini va ular oʻz vaqtida taʼmirlanishini taʼminlashi;
+yoʻl harakatini tashkil etish uchun xavf tugʻdirayotgan koʻp yillik dov-daraxtlar, ularning shoxlari, butalar, qonunga xilof qurilmalar, shuningdek materiallar va chiqindilar yoʻlning qatnov qismidan olib tashlanishini taʼminlashi, bunda daraxtlarni va butalarni kesib tashlashni tabiat resurslari organlari bilan kelishgan holda amalga oshirishi;
+yoʻl-transport hodisasi sodir boʻlgan yoki yoʻl harakati ishtirokchilari uchun xavf tugʻdiradigan joylarda yoʻl harakatini tashkil etishning ogohlantiruvchi, shuningdek yoʻnaltiruvchi texnik vositalarini Davlat yoʻl harakati xavfsizligi xizmati bilan kelishuvga koʻra oʻrnatishi;
+ushbu Qonun 23-moddasining birinchi qismida nazarda tutilgan hollarda, transport vositalarining yoʻllarda (yoʻllar uchastkalarida) harakatlanishini cheklash yoki taqiqlash choralarini koʻrishi;
+yoʻl harakati ishtirokchilarining xavfsizligini taʼminlashi, shuningdek transport vositasiga chiqish va tushishda jamoat transporti yoʻlovchilari uchun shart-sharoitlar yaratishi;
+yoʻl harakati sohasiga axborot-kommunikatsiya texnologiyalarini joriy etishi;
+yoʻl harakatini tashkil etishdagi oʻzgarishlar toʻgʻrisidagi axborotni yoʻl harakati ishtirokchilariga ommaviy axborot vositalari orqali, shuningdek Internet jahon axborot tarmogʻidan foydalangan holda kamida bir sutka oldin yetkazishi;
+Davlat yoʻl harakati xavfsizligi xizmatiga yoʻllarning holati toʻgʻrisida, ularga xizmat koʻrsatilishi, ularning yopilishi va ochilishi haqida, yoʻllarda belgilangan cheklovlar va taqiqlar toʻgʻrisida axborot taqdim etishi;
+ekstremal iqlim sharoitlarida, yoʻlning qatnov qismida yaxmalak hosil boʻlganda va favqulodda vaziyatlar roʻy berganda yoʻl harakatini tashkil etishdagi oʻzgarishlar haqidagi axborotni darhol maxsus vakolatli davlat organlariga va mahalliy ijro etuvchi hokimiyat organlariga yuborishi, shuningdek bu haqda yoʻl harakati ishtirokchilarini xabardor qilishi shart.
+Yoʻl egasining zimmasida qonunchilikka muvofiq boshqa majburiyatlar ham boʻlishi mumkin.
+
+3-bob. Yoʻl harakatini tashkil etish va monitoring qilish
+
+16-modda. Yoʻl harakatini tashkil etishga doir umumiy talablar
+Yoʻl harakatini tashkil etish texnik jihatdan tartibga solish sohasidagi normativ hujjatlarda belgilangan talablarga javob beradigan texnik vositalardan foydalangan holda amalga oshiriladi.
+Oʻzbekiston Respublikasining butun hududida yoʻl harakatini tashkil etish Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan tasdiqlanadigan yagona tartib asosida amalga oshiriladi.
+Yoʻllarda transport vositalarining oʻng tomonlama harakati belgilanadi.
+Yoʻl harakatini tashkil etishga doir tadbirlarni ishlab chiqish qonunchilik talablariga muvofiq amalga oshiriladi.
+
+17-modda. Yoʻl harakatini tashkil etishga doir tadbirlar
+Yoʻl harakatini tashkil etishga doir tadbirlar jumlasiga quyidagilar kiradi:
+transport oqimlarining harakatlanish polosalari boʻyicha taqsimlanishini boshqarish, shu jumladan transport oqimlarining harakatlanishini transport vositalarining toifalariga, harakat tezligiga va yoʻnalishiga, ularning harakatlanish vaqtiga qarab guruhlarga boʻlish;
+yoʻllarning oʻtkazuvchanlik qobiliyatini oshirish, shu jumladan transport vositalarining harakat xavfsizligiga tahdid soluvchi toʻsiqlar va sharoitlarni bartaraf etish, chorrahalarni rekonstruksiya qilish, yoʻl oʻtkazgichlarni qurish;
+svetofor obyektlarini tizimli boshqarish, ularning yoʻl harakatini tartibga solish sikllarini maqbullashtirish;
+yoʻl harakatini tashkil etish toʻgʻrisidagi hujjatlarda belgilangan hududlar chegaralarida svetofor obyektlari koʻrsatkichlarining oʻzaro aloqadorligini belgilash;
+piyodalar va velosipedchilar harakatini taʼminlash, shu jumladan piyodalar oʻtish joylarini va velosipedchilar yoʻlaklarini belgilash, qurish, jihozlash hamda tartibga solish maqsadida yoʻl infratuzilmasini rivojlantirish;
+yoʻnalishli transport vositalarining harakatlanishi uchun ustuvorlikni joriy etish;
+yoʻldan tashqarida toʻxtab turish joylarini rivojlantirish;
+transport vositalarining harakatlanishini cheklash yoki taqiqlash.
+Transport vositalarining yoʻllarda taqsimlanishini boshqarishda yoʻllarni qurish, rekonstruksiya qilish, kapital taʼmirlash va taʼmirlash boʻyicha tadbirlar, shuningdek yoʻl harakatini tashkil etishning asosiy koʻrsatkichlariga taʼsir koʻrsatadigan kapital qurilishning boshqa turlari hisobga olinishi kerak.
+Milliy standartlar talablariga muvofiq boʻlmagan yoʻl harakatini tashkil etishning texnik vositalarini joylashtirishga yoʻl qoʻyilmaydi.
+Yoʻl harakatini tashkil etishga doir tadbirlar maxsus vakolatli davlat organlari va mahalliy ijro etuvchi hokimiyat organlari tomonidan bevosita yoki korxonalar, muassasalar va tashkilotlarni, shu jumladan tadbirkorlik subyektlarini qonunchilikda belgilangan tartibda jalb etgan holda amalga oshiriladi.
+
+18-modda. Yoʻl harakatini tashkil etishning asosiy koʻrsatkichlari
+Yoʻl harakatini tashkil etishning asosiy koʻrsatkichlaridan maxsus mahalliy ijro etuvchi hokimiyat organlari va vakolatli davlat organlari tomonidan yoʻl harakatini tashkil etishning texnik vositalarini oʻrnatishda, yoʻl harakatining monitoringini amalga oshirishda, yoʻlning oʻtkazuvchanlik qobiliyatini aniqlashda, transport vositalarining harakatlanishini cheklashda yoki taqiqlashda foydalaniladi.
+Yoʻl harakatini tashkil etishning asosiy koʻrsatkichlari quyidagilardan iborat:
+yoʻl harakatini tavsiflovchi koʻrsatkichlar — yoʻlning oʻtkazuvchanlik qobiliyati, harakatning jadalligi, transport oqimining tarkibi, transport vositalari harakatlanishining oʻrtacha tezligi, yoʻlning bir kilometrida harakatlanayotgan transport vositalarining oʻrtacha soni (harakat zichligi);
+yoʻlning transport-ekspluatatsiya koʻrsatkichlari — harakatlanishning belgilangan tezlik bilan taʼminlanganligi, yoʻlning oʻtkazuvchanlik qobiliyati, yoʻlning harakatlanish bilan yuklanganlik darajasi, harakatning uzluksizligi va qulayligi, yoʻlning toifasiga qarab transport vositalarining oʻqlariga tushadigan ogʻirlikka va yuk koʻtarish qobiliyatiga koʻra oʻtkazish quvvati yoki umumiy yuk koʻtarish hajmi;
+yoʻlning geometrik va fizik koʻrsatkichlari — qatnov qismining hamda yoʻl yoqasi mustahkamlangan qismining kengligi, boʻylama qiyaliklarning kattaligi, tik va yotiq egriliklar radiuslari, burilishlarning yoʻl tuproq koʻtarmasi yonbagʻirlarining nishabligi, koʻrinuvchanlik masofalari, koʻpriklar, yoʻl oʻtkazgichlarining hamda boshqa yoʻl sunʼiy inshootlarining oʻlchamlari, yuk koʻtarish quvvati, muhandislik inshootlarining va yoʻl elementlarining holati, qatnov qismining hamda yoʻl boʻyidagi qoplamalarning kengligi, yoʻl tuproq koʻtarmasining mustahkamligi, oʻzgaruvchanligi, yopishuvchanligi hamda holati, gidroizolyatsiya tizimining holati va yaroqliligi;
+yoʻl harakati ishtirokchilarining harakat davomida vaqt yoʻqotishini (kechikishini) tavsiflovchi koʻrsatkichlar, tirband joylar soni;
+yoʻl harakati xavfsizligini tavsiflovchi koʻrsatkichlar — sodir boʻlgan yoʻl-transport hodisalarining, yoʻl transport hodisalari oqibatida badaniga shikast yetkazilgan va halok boʻlgan shaxslarning, avariya oʻchoqlarining, shuningdek Yoʻl harakati qoidalarini buzish bilan bogʻliq maʼmuriy huquqbuzarliklarning soni.
+
+19-modda. Yoʻl harakatini tashkil etishning texnik vositalari
+Yoʻl harakatini tashkil etishning texnik vositalari davlat standartlari talablariga muvofiq qoʻllaniladi.
+Yoʻl harakatini tashkil etishning texnik vositalariga doir talablar texnik jihatdan tartibga solish sohasidagi normativ hujjatlar bilan belgilanadi.
+
+20-modda. Tashqi reklama va axborot obyektlari (konstruksiyalari)
+Tashqi reklama va axborot obyektlarini (konstruksiyalarini) joylashtirish “Reklama toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonunida nazarda tutilgan tartibda amalga oshiriladi.
+Yoʻl harakatini tashkil etishga monelik qiluvchi tashqi reklama va axborot obyektlarini (konstruksiyalarini) joylashtirishga yoʻl qoʻyilmaydi.
+
+21-modda. Yoʻlning taʼmirlash ishlari olib borilayotgan uchastkalarida yoʻl harakatini tashkil etish
+Yoʻl uchastkalarini rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash boʻyicha ishlar bajarilayotganda yoʻlning mazkur uchastkalaridagi qatnov qismining koʻpi bilan ellik foizi oʻtish uchun cheklanishi yoki yopilishi mumkin.
+Yoʻl uchastkalarida qatnov qismining ellik foizidan koʻprogʻini yopish zarur boʻlgan taqdirda mazkur yoʻl uchastkalarini aylanib oʻtish taʼminlanishi kerak.
+Yoʻl uchastkalarini rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash boʻyicha ishlar boshlanishidan yoxud yoʻl uchastkalarida boshqa ishlar amalga oshirilishidan uch kun oldin va ushbu ishlarni bajarish davrida yoʻl harakatini tashkil etishning zarur texnik vositalari oʻrnatiladi.
+Yoʻl uchastkalarini rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash boʻyicha ishlarni bajarish toʻgʻrisidagi yoxud yoʻl uchastkalarida boshqa ishlarni amalga oshirish haqidagi axborot ommaviy axborot vositalariga oldindan joylashtiriladi.
+Yoʻl uchastkasini rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash boʻyicha ishlarni bajarish chogʻida ushbu ishlarni bajarishga doir shartnomalarda belgilanmagan toʻsiqlarni oʻrnatishga yoʻl qoʻyilmaydi.
+
+22-modda. Kapital qurilish obyektlarida yoʻl harakatini tashkil etish tartibi
+Kapital qurilish obyektlarida yoʻl harakatini tashkil etishda shaharsozlik normalari va qoidalarida koʻrsatilgan yoʻl harakatini tashkil etish samaradorligini taʼminlash talablari hisobga olinadi.
+Kapital qurilish obyektlarini yoʻl harakatini tashkil etish talablarini buzgan holda joylashtirishga yoʻl qoʻyilmaydi.
+
+23-modda. Yoʻllarda (yoʻl uchastkalarida) transport vositalarining harakatlanishini cheklash yoki taqiqlash
+Yoʻllarda (yoʻl uchastkalarida) transport vositalarining harakatlanishini cheklash yoki taqiqlash tegishli vakolatli davlat organlarining axborotiga asosan quyidagi hollarda amalga oshiriladi:
+yoʻl harakati xavfsizligiga, shu jumladan fuqarolarning hayotiga yoki sogʻligʻiga tahdid boʻlganda;
+ekstremal iqlim sharoitlari toʻgʻrisida, tabiiy ofatlar, avariyalar, yongʻinlar, tabiiy hamda texnogen xususiyatli boshqa favqulodda vaziyatlar roʻy berishi xavfi haqida belgilangan tartibda ogohlantirish kelib tushganda;
+ekstremal iqlim sharoitlari, tabiiy ofatlar, avariyalar, yongʻinlar, tabiiy hamda texnogen xususiyatli boshqa favqulodda vaziyatlar roʻy berganda;
+yoʻl-transport hodisalari sodir etilganda;
+qonunda nazarda tutilgan tezkor-qidiruv tadbirlari, shuningdek protsessual harakatlar amalga oshirilayotganda;
+ommaviy tadbirlar (sport tadbirlari va madaniy tadbirlar, kino- va fototasvirga olish, ommaviy sayrlar, yarmarkalar, ommaviy yurishlar hamda boshqa tadbirlar) oʻtkazilayotganda;
+qoʻriqlanadigan shaxslar yoʻlda harakatlanayotganda.
+Yoʻllarda (yoʻl uchastkalarida) transport vositalarining harakatlanishini cheklash yoki taqiqlash qonunda nazarda tutilgan boshqa hollarda ham amalga oshirilishi mumkin.
+Yoʻl egalari tomonidan jalb qilinadigan yoʻllarni taʼmirlash va saqlash boʻyicha tashkilotlar ushbu moddaning birinchi qismida nazarda tutilgan hollarda, shuningdek yoʻlning (yoʻl uchastkasining) transport-ekspluatatsiya sifati yomonlashganda va boshqa shunga oʻxshash hollarda, taʼmirlash-qurilish ishlari olib borilayotganda mahalliy ijro etuvchi hokimiyat organlarini bu haqda xabardor qilgan, yoʻllardan foydalanuvchilarni ommaviy axborot vositalari orqali eʼlon qilib xabardor etgan hamda yoʻl harakatini tashkil etishning tegishli texnik vositalarini oʻrnatgan holda, transport vositalarining harakatlanishini Davlat yoʻl harakati xavfsizligi xizmati va Oʻzbekiston Respublikasi Favqulodda vaziyatlar vazirligining boʻlinmalari bilan kelishuvga koʻra cheklash yoki taqiqlash huquqiga ega.
+Yoʻl egalari yoʻllardagi yoki ularning ayrim uchastkalaridagi harakatlanishni ajratilgan mintaqada ishlar olib borilayotganda bunday ishlarni olib borish transport vositalari va piyodalarning harakat xavfsizligiga tahdid qilgan hollarda ham cheklashga yoki taqiqlashga haqli.
+Ishlarni olib borish uchun yoʻllarda yoki ularning ayrim uchastkalarida harakatlanishni cheklash yoki taqiqlash yoʻllar egalarining roziligi bilan amalga oshiriladi.
+Shoshilinch, kechiktirib boʻlmaydigan hollarda, yoʻllarda (yoʻl uchastkalarida) harakatlanishni cheklash yoki taqiqlash ishlarni amalga oshirish uchun oldindan rozilik olmasdan turib, biroq yoʻllarning egalarini va Davlat yoʻl harakati xavfsizligi xizmatini bu haqda majburiy ravishda xabardor qilgan holda joriy etilishi mumkin.
+
+24-modda. Toʻxtab turish joylariga doir talablar
+Koʻp kvartirali uylarga tutash hududlarning belgilangan chegaralarida toʻxtab turish joylarini qurish toʻgʻrisidagi qarorlar hududni rejalashtirish boʻyicha tasdiqlangan hujjatlarga muvofiq mahalliy ijro etuvchi hokimiyat organlari tomonidan qabul qilinadi. Bunda qurilish ishlari shaharsozlik normalari va qoidalarida belgilangan tartibda amalga oshiriladi.
+Toʻxtab turish joylarini joylashtirish ekologik xavfsizlikni taʼminlash hamda atrof-muhitga, aholining sogʻligʻi va osoyishtaligiga salbiy taʼsirni kamaytirish hisobga olingan holda amalga oshiriladi.
+Toʻxtab turish joylarining belgilangan maqsadi va imkoniyatlari (joylar soni) shaharsozlik normalariga va qoidalariga muvofiq belgilanadi.
+Toʻxtab turish joylariga boʻlgan ehtiyojlarni aniqlash uchun mazkur hududda foydalanuvchilarga xizmat koʻrsatilishi uchun zarur boʻlgan transport vositalarining soni, shuningdek ularning kelgusida koʻpaytirilishi inobatga olinadi.
+Toʻxtab turish joylari yoʻl harakatini tashkil etish boʻyicha hujjatlarda koʻrsatilgan ehtiyojga mos keladigan miqdorda tashkil qilinadi.
+Toʻxtab turish joylarini roʻyxatga olish yoʻl egasi tomonidan amalga oshiriladi.
+Toʻxtab turish joylarida toʻxtab turish joyining kirish yoki undan chiqish joyiga tutash boʻlgan alohida joylar nogironligi boʻlgan shaxslar boshqaradigan va ushbu shaxslarni tashiydigan transport vositalari uchun qonunchilikka muvofiq majburiy tartibda ajratiladi.
+Elektr dvigatelda ishlaydigan transport vositalari uchun alohida joylar ajratiladi. Bunday joylarda elektr quvvat manbalariga ulanish imkoniyati yaratilishi mumkin.
+Toʻxtab turish joylaridan foydalanishga monelik qiladigan toʻsiqlarni va boshqa konstruksiyalarni oʻrnatish taqiqlanadi.
+Toʻxtab turish joylariga transport vositalarining kirishini, ulardan chiqishini va bu joylarda harakatlanishini tashkil etish maxsus vakolatli davlat organlari bilan kelishilgan loyihaga muvofiq amalga oshiriladi.
+Toʻxtab turish joylaridan foydalanuvchilar transport vositalarini joylashtirishda toʻxtab turish joylarining egalari tomonidan belgilangan toʻxtab turish joylaridan foydalanish qoidalariga rioya etishi shart. Umumiy foydalanishdagi toʻxtab turish joylarining egalari toʻxtab turish joylaridan foydalanish qoidalarini hamma uchun qulay boʻlgan joylarga tanishib chiqish uchun joylashtirishi shart.
+Toʻxtab turish joylaridan foydalanish qoidalariga rioya etilishi ustidan nazorat mazkur toʻxtab turish joylarining egalari tomonidan amalga oshiriladi.
+Ushbu moddada belgilangan, toʻxtab turish joylariga doir talablarga rioya etilishi ustidan nazorat maxsus vakolatli davlat organlari va mahalliy ijro etuvchi hokimiyat organlari tomonidan amalga oshiriladi.
+
+25-modda. Pulli toʻxtab turish joylariga doir talablar. Pulli toʻxtab turish joylari egalarining huquq va majburiyatlari
+Pulli toʻxtab turish joylarining egalari pulli toʻxtab turish joylaridan foydalanganlik uchun toʻlov miqdorini Qoraqalpogʻiston Respublikasi Vazirlar Kengashi, viloyatlar va Toshkent shahar hokimliklari tomonidan Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi bilan kelishilgan holda belgilanadigan cheklangan miqdorlardan yuqori boʻlmagan tariflar boʻyicha mustaqil ravishda belgilaydi.
+Pulli toʻxtab turish joylaridan foydalanganlik uchun toʻlov naqd pul shaklida yoki naqd pulsiz shaklda, toʻlov tizimlaridan, shu jumladan avtomatlashtirilgan toʻlov tizimlaridan foydalanilgan holda amalga oshiriladi.
+Pulli toʻxtab turish joylarini tashkil etish chogʻida ushbu Qonunning 24-moddasida belgilangan talablar bajariladi.
+Pulli toʻxtab turish joylarining egalari quyidagi huquqlarga ega:
+pulli toʻxtab turish joylaridan bepul yoki imtiyozli foydalanish huquqi beriladigan foydalanuvchilarning roʻyxatini belgilash;
+pulli toʻxtab turish joylaridan bepul yoki imtiyozli foydalanish huquqi beriladigan transport vositalarining roʻyxatini belgilash.
+Pulli toʻxtab turish joylarining egalari:
+pulli toʻxtab turish joylaridan foydalanganlik uchun avtomatlashtirilgan toʻlov tizimini joriy etishi;
+pulli toʻxtab turish joylari tashkil etilgan hududda yoʻl belgilari oʻrnatilishini, shuningdek videokuzatuv tizimlari yoki qoʻriqlashning boshqa texnik vositalari oʻrnatilishi va uzluksiz ishlashini taʼminlashi;
+toʻxtab turish joyining kirish yoki undan chiqish joyiga tutash boʻlgan toʻxtab turish joylari orasidan nogironligi boʻlgan shaxslar boshqaradigan yoki ularni tashiydigan transport vositalari uchun toʻxtab turish joylari ajratilishini taʼminlashi shart.
+Pulli toʻxtab turish joylarining egalari qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi va ularning zimmasida oʻzga majburiyatlar boʻlishi mumkin.
+
+26-modda. Yoʻl harakati monitoringi
+Yoʻl harakati monitoringi maxsus vakolatli davlat organlari va mahalliy ijro etuvchi hokimiyat organlari tomonidan amalga oshiriladi.
+Yoʻl harakati monitoringini amalga oshirish maqsadida maxsus vakolatli davlat organlarida alohida boʻlinmalar tashkil etilishi mumkin.
+
+4-bob. Yoʻl harakatini tashkil etishga doir hujjatlar
+
+27-modda. Yoʻl harakatini tashkil etishga doir hujjatlarga oid umumiy talablar
+Yoʻl harakatini tashkil etishga doir hujjatlar Oʻzbekiston Respublikasining qonunchiligi talablariga muvofiq boʻlishi kerak.
+Yoʻl harakatini tashkil etishga doir hujjatlar fuqarolarning hayoti va sogʻligʻi muhofaza qilinishini, ekologik xavfsizlikni taʼminlash hamda atrof-muhitga transport vositalarining salbiy taʼsirini kamaytirish hisobga olingan holda ishlab chiqiladi.
+
+28-modda. Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar
+Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar yoʻl harakatini tashkil etishning strategik yoʻnalishlarini belgilash hamda yoʻl harakatini boshqarish samaradorligini taʼminlash yuzasidan qarorlar qabul qilish uchun ishlab chiqiladi.
+Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar tumanlar (shaharlar) kesimida besh yil muddatga ishlab chiqiladi hamda ular asosida Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent shahri boʻyicha kompleks dasturlar tayyorlanadi.
+Tumanlarning (shaharlarning), shaharchalar, qishloqlar va ovullarning koʻchalarida, shuningdek xoʻjalik yoʻllarida yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar mahalliy ijro etuvchi hokimiyat organlari tomonidan ishlab chiqiladi va tasdiqlash uchun mahalliy davlat hokimiyati vakillik organlariga kiritiladi.
+Umumiy foydalanishdagi yoʻllarda yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar Oʻzbekiston Respublikasi Transport vazirligi tomonidan tayyorlanadi va tasdiqlanadi.
+Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlarda quyidagilar nazarda tutiladi:
+yoʻl harakatini tashkil etish boʻyicha tadbirlar;
+atrof-muhitga transport vositalarining salbiy taʼsirini kamaytirishni taʼminlash boʻyicha tadbirlar;
+yoʻl harakatini boshqarishning avtomatlashtirilgan tizimlarini joriy etish;
+aholisi besh yuz ming nafar kishidan ortiq boʻlgan shaharlarda — tranzit tashuvchilar uchun aylanib oʻtish (halqa) yoʻllari haqidagi, tirbandliklarning oldini olish maqsadida shaharga kirilayotganda toʻxtab turish joylari toʻgʻrisidagi, shahar hududidagi mavjud toʻxtab turish joylari haqidagi avtomatlashtirilgan axborot tizimlarini joriy etish;
+yoʻllarni va yoʻl obyektlarini loyihalashtirish, qurish, rekonstruksiya qilish, kapital taʼmirlash hamda taʼmirlash boʻyicha tadbirlar.
+Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlarda koʻrsatilgan tadbirlarni amalga oshirish Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari va budjetdan tashqari mablagʻlar hisobidan amalga oshiriladi.
+Yoʻl harakatini tashkil etish boʻyicha kompleks dasturlar ommaviy axborot vositalariga, shu jumladan maxsus vakolatli davlat organlarining va mahalliy ijro etuvchi hokimiyat organlarining rasmiy veb-saytlariga joylashtiriladi.
+
+29-modda. Yoʻl harakatini tashkil etish loyihalari
+Yoʻl harakatini tashkil etish loyihalari yoʻl harakatini tashkil etish boʻyicha kompleks dasturlarda koʻrsatilgan tadbirlarni amalga oshirish, shuningdek ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining harakatlanish yoʻnalishlarini belgilash maqsadida loyihalash tashkilotlari tomonidan ishlab chiqiladi.
+Xalqaro ahamiyatga ega boʻlgan yoʻllarda yoʻl harakatini tashkil etish loyihalari xalqaro normalar talablari hisobga olingan holda bajariladi.
+Ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining harakatlanish yoʻnalishlari boʻyicha yoʻl harakatini tashkil etish loyihalarini ishlab chiqish chogʻida quyidagilar hisobga olinadi:
+ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashish qoidalari;
+taqiqlovchi yoʻl belgilarini oʻrnatish;
+ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining yoʻl sunʼiy inshootlari orqali oʻtishi tartibi.
+Ogʻir vaznli, yirik gabaritli, xavfli va maxsus yuklarni tashuvchi transport vositalarining yoʻl sunʼiy inshootlari orqali oʻtishi tartibi maxsus vakolatli davlat organlari tomonidan belgilanadi.
+Tadbirlarni yoʻl harakatini tashkil etishning tasdiqlanmagan loyihalari boʻyicha amalga oshirishga yoʻl qoʻyilmaydi.
+
+30-modda. Alohida yoʻl harakatini tashkil etish loyihalari
+Yoʻllarda transport vositalarining harakati bir sutkadan ortiq muddatga cheklangan yoki taqiqlangan taqdirda alohida yoʻl harakatini tashkil etish loyihalari ishlab chiqiladi.
+Yoʻllarda transport vositalarining harakatlanishini cheklash yoki taqiqlash davri uchun alohida yoʻl harakatini tashkil etish loyihalari yoʻl harakati ishtirokchilarining harakat yoʻnalishini belgilash maqsadida quyidagi holatlarda ishlab chiqiladi:
+yoʻllarni qurish, rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash chogʻida;
+transport vositalarining harakatlanishiga taʼsir qiluvchi qurilish, taʼmirlash ishlarini va boshqa ishlarni bajarish, shu jumladan muhandislik infratuzilmasi obyektlarini qurish, rekonstruksiya qilish, kapital taʼmirlash yoki taʼmirlash chogʻida;
+ommaviy tadbirlarni (sport tadbirlari va madaniy tadbirlar, kino- va fototasvirga olish, ommaviy sayrlar, yarmarkalar, ommaviy yurishlar va boshqa tadbirlar) oʻtkazish chogʻida;
+dam olish va ishlanmaydigan bayram kunlarida dam olish obyektlari hamda zonalari bilan bogʻlaydigan yoʻllar boʻylab harakatlanish jadalligi normadan oshganda.
+
+31-modda. Yoʻl harakatini tashkil etish loyihalarining auditi
+Yoʻl harakatini tashkil etish loyihalari yoʻl harakati xavfsizligi talablariga muvofiqlik yuzasidan auditdan oʻtkaziladi.
+Yoʻl harakatini tashkil etish loyihalarining auditi maxsus vakolatli davlat organlari tomonidan mustaqil ravishda yoki shunday auditni oʻtkazish huquqiga ega boʻlgan tadbirkorlik subyekti shartnoma asosida jalb etilgan holda oʻtkaziladi.
+Yoʻl harakatini tashkil etish loyihalarining auditi quyidagi bosqichlarda oʻtkaziladi:
+asoslantirish (rejalashtirish);
+xomaki loyihalashtirish;
+batafsil loyihalashtirish;
+yoʻlni foydalanishga topshirishdan oldin;
+yoʻlni foydalanishga topshirilganidan keyin.
+Yoʻl harakatini tashkil etish loyihalarining auditi u qaysi bosqichda oʻtkazilganligiga qarab quyidagi turlarga boʻlinadi:
+yoʻlni qurish yoki rekonstruksiya qilish xavfsizligi auditi;
+foydalaniladigan yoʻlning xavfsizligi auditi;
+oʻziga xos maqsadga moʻljallangan yoʻl obyektlarining xavfsizligi auditi.
+Yoʻl harakatini tashkil etish loyihalarining auditi quyidagi vazifalarni hal etishga qaratiladi:
+obyektdan foydalanish chogʻida yoʻl-transport hodisalarining roʻy berishi ehtimolini imkon qadar kamaytirish;
+xavfni toʻliq bartaraf etish imkoni boʻlmagan yoʻl uchastkalarida roʻy berishi mumkin boʻlgan yoʻl-transport hodisalarining oqibatlarini imkon qadar kamaytirish uchun samarali yechimlarni qoʻllash;
+yoʻllarni loyihalashtirish va qurish bosqichlarida kamchiliklarni aniqlash hamda bartaraf etish orqali yoʻldan foydalanish chogʻida kamchiliklarni bartaraf etishga doir xarajatlarni kamaytirish.
+Yoʻl harakatini tashkil etish loyihalarining auditi natijasida tayyorlangan tavsiyalar tegishli bosqichda buyurtmachiga va ishlarni bajaruvchilarga (rejalashtiruvchi tashkilotga, loyihalashtiruvchi tashkilotga, pudratchi tashkilotga, foydalanuvchi tashkilotga) koʻrib chiqish uchun taqdim etiladi.
+Yoʻl harakatini tashkil etish loyihasining auditi natijalari boʻyicha xulosa tuzilib, unda yoʻl harakatini tashkil etish loyihasi qonunchilik talablariga muvofiq ekanligi yoki muvofiq emasligi koʻrsatiladi.
+Agar yoʻl harakatini tashkil etish loyihasining auditi natijasida loyihaning qonunchilik talablariga muvofiq emasligi aniqlansa, mazkur loyihaga tegishli oʻzgartishlar kiritiladi.
+
+32-modda. Yoʻllarni loyihalashtirishga, qurishga, rekonstruksiya qilishga, taʼmirlashga va saqlashga doir talablar
+Yoʻllarni loyihalashtirish, qurish, rekonstruksiya qilish, taʼmirlash va saqlash yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq amalga oshirilishi kerak. Qurilgan va rekonstruksiya qilingan yoʻllarning yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiqligi qonunchilikda belgilangan tartibda Oʻzbekiston Respublikasi Transport vazirligi tomonidan aniqlanadi.
+Loyihalashtirish bosqichida yoʻllarning yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiqligi uchun javobgarlik yoʻl harakatini tashkil etish loyihasini ishlab chiquvchining, qurilish va rekonstruksiya qilish bosqichlarida esa ishlarni bajaruvchining zimmasiga yuklatiladi.
+Yoʻllarni taʼmirlash va saqlash chogʻida ularning holati yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiqligini taʼminlash majburiyati yoʻl egalarining zimmasiga yuklatiladi.
+Yoʻl egalarining oʻz zimmasiga yuklatilgan majburiyatlarni bajarmaganligi oqibatida yoʻl harakati ishtirokchilariga va transport vositasiga yetkazilgan zararning oʻrni qonunchilikda belgilangan tartibda yoʻl egalari tomonidan qoplanadi.
+
+33-modda. Yoʻllarda xizmat koʻrsatish obyektlarini barpo etish
+Yoʻllarning egalari xizmat koʻrsatish obyektlarini loyihalashtirish normalariga, ularni qurish rejalariga va ularni joylashtirishning bosh sxemalariga muvofiq oʻz ixtiyoridagi yoʻllarda mazkur obyektlarni barpo etish choralarini koʻradi, yoʻl harakati ishtirokchilarining ehtiyojlarini qanoatlantirish va ularning xavfsizligini taʼminlash maqsadida xizmat koʻrsatish obyektlarining ishini tashkil etadi, yoʻl harakati ishtirokchilariga bunday obyektlarning mavjudligi hamda eng yaqin sogʻliqni saqlash va aloqa muassasalarining joylashuvi haqidagi axborotni, shuningdek yoʻllarning tegishli uchastkalarida harakatlanishning xavfsiz sharoitlari toʻgʻrisidagi axborotni taqdim etadi.
+
+5-bob. Yoʻl harakati xavfsizligini taʼminlashga doir talablar
+
+34-modda. Yoʻl harakati xavfsizligini taʼminlash
+Yoʻl harakati xavfsizligini taʼminlash yoʻl-transport hodisalari roʻy berishi sabablarining oldini olishga va ularning oqibatlarini yumshatishga qaratilgan faoliyatdir.
+
+35-modda. Transport vositalari egalarining yoʻl harakati xavfsizligini taʼminlashga doir majburiyatlari
+Transport vositasiga mulk huquqi yoki operativ boshqarish huquqi asosida yoki boshqa qonuniy asosda egalik qiluvchi shaxs transport vositasining egasidir. Transport vositasini oʻz xizmat yoki mehnat majburiyatlarini bajarish uchun, shu jumladan transport vositasining mulkdori yoxud boshqa egasi bilan tuzilgan mehnat shartnomasiga yoki fuqarolik-huquqiy xususiyatga ega shartnomaga asosan boshqaruvchi shaxs transport vositasining egasi boʻlmaydi.
+Transport vositalarining egalari:
+texnik jihatdan soz transport vositalaridan foydalanishi;
+transport vositalarining tegishli malakaga ega boʻlgan va tibbiy koʻrikdan oʻtgan shaxslar tomonidan boshqarilishiga ijozat berishi;
+transport vositalaridan foydalanish chogʻida boshqa shaxslarning hayotiga, sogʻligʻiga va (yoki) mulkiga zarar yetkazganlik uchun oʻz fuqarolik javobgarligini “Transport vositalari egalarining fuqarolik javobgarligini majburiy sugʻurta qilish toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuniga muvofiq majburiy sugʻurta qilishni amalga oshirishi;
+transport vositalarining alkogoldan mast holatda yoki psixoaktiv moddalar taʼsiri ostida yoxud oʻta charchoq holatda boʻlgan shaxslar tomonidan boshqarilishiga yoʻl qoʻymasligi;
+yoʻl harakati toʻgʻrisidagi qonunchilikka rioya etishi shart.
+
+36-modda. Transport vositalariga, ular konstruksiyalarining tarkibiy qismlariga, ehtiyot qismlarga va anjomlarga doir talablar
+Transport vositalari, ular konstruksiyalarining tarkibiy qismlari, ehtiyot qismlar va anjomlar transport vositasining texnik parametrlariga hamda yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq boʻlishi kerak hamda qonunchilikda nazarda tutilgan hollarda majburiy ravishda sertifikatlashtirilishi lozim.
+
+37-modda. Transport vositalarining texnik holatiga va uskunalariga doir talablar
+Transport vositalarining texnik holati va uskunalari yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq boʻlishi kerak. Oʻzbekiston Respublikasi hududida foydalanishda boʻlgan va belgilangan tartibda roʻyxatga olingan transport vositalari majburiy ravishda texnik koʻrikdan oʻtkaziladi.
+Transport vositalarini majburiy ravishda texnik koʻrikdan oʻtkazish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+38-modda. Transport vositalariga texnik xizmat koʻrsatishga va ularni taʼmirlashga doir talablar
+Transport vositalariga texnik xizmat koʻrsatish va ularni taʼmirlash yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq boʻlishi kerak.
+Transport vositalariga texnik xizmat koʻrsatish va ularni taʼmirlash boʻyicha xizmatlar koʻrsatuvchi yuridik shaxslar hamda yakka tartibdagi tadbirkorlar mazkur xizmatlarni yoʻl harakati sohasidagi normativ hujjatlar talablariga muvofiq koʻrsatishi shart.
+
+39-modda. Transport vositalaridan foydalanishni taqiqlash
+Yoʻl harakati xavfsizligiga tahdid soluvchi texnik nosozliklar mavjud boʻlganda transport vositalaridan foydalanish taqiqlanadi.
+Transport vositalarining texnik nosozliklari roʻyxati va bunday nosozliklar mavjud boʻlganda ulardan foydalanishni taqiqlaydigan shartlar Yoʻl harakati qoidalarida belgilanadi.
+Transport vositalaridan foydalanishni taqiqlash qonunchilikda belgilangan tartibda Davlat yoʻl harakati xavfsizligi xizmatining vakolatli mansabdor shaxslari tomonidan amalga oshiriladi.
+
+40-modda. Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslarga doir asosiy talablar
+Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslar:
+haydovchilarning ishini yoʻl harakati xavfsizligini taʼminlovchi talablarga muvofiq tashkil etishi;
+haydovchilarning qonunchilikda belgilangan mehnat qilish va dam olish rejimiga rioya etishi;
+haydovchilarning malakasini oshirish uchun zarur shart-sharoitlar yaratishi;
+transport vositalarining sozligini va but saqlanishini taʼminlashi, yoʻl harakati xavfsizligiga tahdid soluvchi texnik nosozliklar mavjud boʻlganda transport vositalaridan foydalanishga yoʻl qoʻymasligi;
+oʻziga tegishli transport vositalari ishtirokida sodir etilgan yoʻl-transport hodisalarining va Yoʻl harakati qoidalari buzilishlarining sabablarini tahlil qilishi hamda ularni bartaraf etish choralarini koʻrishi;
+tibbiyot xodimlarini jalb etgan holda haydovchilarning tibbiy koʻriklarini, haydovchilarning yoʻl-transport hodisalarida jabrlanganlarga hodisa yuz bergan joyning oʻzida, tibbiyot xodimlari yetib kelguniga qadar birlamchi shoshilinch yordam koʻrsatish boʻyicha koʻnikmalarini takomillashtirishga doir tadbirlarni tashkil etishi va oʻtkazishi;
+xodim oʻz mehnat vazifalarini bajarishi bilan bogʻliq boʻlgan holda mehnatda mayib boʻlganligi, kasb kasalligiga chalinganligi yoki sogʻligʻining boshqacha tarzda shikastlanganligi munosabati bilan uning hayotiga yoki sogʻligʻiga yetkazilgan zararning oʻrnini qoplash boʻyicha oʻz fuqarolik javobgarligini “Ish beruvchining fuqarolik javobgarligini majburiy sugʻurta qilish toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonunida belgilangan tartibda sugʻurtalashi shart.
+Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslar zimmasida qonunchilikka muvofiq boshqa majburiyatlar ham boʻlishi mumkin.
+Avtomobil transportida yoki yer usti shahar elektr transportida yoʻlovchilar, bagaj va yuk tashish faoliyatini amalga oshirayotgan yuridik shaxslar tashishning oʻziga xos xususiyatlarini hisobga olgan holda, yoʻl harakati xavfsizligini taʼminlash maqsadida haydovchilarga nisbatan yoʻl harakati toʻgʻrisidagi qonunchilikka muvofiq qoʻshimcha talablar qoʻyishi mumkin.
+Yuridik shaxslar transport vositalarining soniga qarab yoʻl harakati xavfsizligi boʻyicha xizmatlarni tashkil etadi yoki lavozimlar joriy etadi. Yoʻl harakati xavfsizligi xizmati xodimlarining sonini aniqlash normativlari qonunchilikda belgilanadi.
+Yuridik shaxslar tomonidan oʻtkaziladigan yoʻl harakati xavfsizligini taʼminlashga doir tadbirlarni moliyalashtirish ularning oʻz mablagʻlari va qonunchilikda taqiqlanmagan boshqa manbalar hisobidan amalga oshiriladi.
+
+41-modda. Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslarning xodimlarini yoʻl harakati xavfsizligi masalalari boʻyicha oʻqitish, ularning malakasini oshirish, ularga yoʻl-yoʻriq koʻrsatish va ularning bilimlarini tekshirish
+Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslarning xodimlarini yoʻl harakati xavfsizligi masalalari boʻyicha oʻqitish, ularning malakasini oshirish, ularga yoʻl-yoʻriq koʻrsatish va ularning bilimlarini tekshirish yuridik shaxs tomonidan oʻz mablagʻlari hisobidan amalga oshiriladi.
+Yoʻl-transport hodisalarining oldini olish maqsadida yuridik shaxs yoʻl harakati xavfsizligi boʻyicha dastlabki, reysdan oldingi, maxsus, mavsumiy va qoʻshimcha (navbatdan tashqari) yoʻl-yoʻriqlar koʻrsatilishini taʼminlashi shart.
+Transport vositalaridan foydalanishga bogʻliq faoliyat bilan shugʻullanuvchi yuridik shaxslarning yoʻl harakati xavfsizligi xizmati xodimlari Oʻzbekiston Respublikasi Transport vazirligi tomonidan tasdiqlangan maxsus dasturlar boʻyicha uch yilda kamida bir marta oʻz malakasini oshirib, malaka imtihoni topshirishi kerak.
+
+42-modda. Mehnat shartnomasi boʻyicha ishlayotgan haydovchilarning huquqlari
+Mehnat shartnomasi boʻyicha ishlayotgan haydovchilar quyidagi huquqlarga ega:
+ish beruvchidan harakatlanish yoʻnalishi, tashiladigan yuk haqida, oʻz hayoti va sogʻligʻi uchun mavjud boʻlgan tahdid toʻgʻrisida, shuningdek tashishni amalga oshirish chogʻida zararli va (yoki) xavfli omillar taʼsiridan oʻzining himoya qilinishiga doir chora-tadbirlar haqida ishonchli axborot olish;
+belgilangan talablarga muvofiq shaxsiy himoya vositalari, maxsus kiyim-bosh bilan taʼminlanish;
+yoʻl harakati xavfsizligini taʼminlash boʻyicha shart-sharoitlarni yaxshilash bilan bogʻliq boʻlgan masalalarni koʻrib chiqishda ishtirok etish;
+oʻz hayoti va sogʻligʻiga tahdid soladigan vaziyat yuzaga kelgan taqdirda, tashishni bajarishni bevosita rahbarini yoki ish beruvchining boshqa vakilini bu haqda xabardor qilgan holda rad etish;
+yoʻl harakati xavfsizligi sohasida malakasini oshirish va kasbiy qayta tayyorgarlikdan oʻtish;
+mehnat vazifalarini bajarish chogʻida oʻz sogʻligʻiga yetkazilgan zararning oʻrni qoplanishi;
+ish beruvchining yoʻl harakati sohasidagi gʻayrihuquqiy qarorlari va harakatlari (harakatsizligi) ustidan shikoyat qilish.
+Mehnat shartnomasi boʻyicha ishlayotgan haydovchilar qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi mumkin.
+
+43-modda. Yoʻl harakati ishtirokchilarining huquq va majburiyatlari
+Yoʻl harakati ishtirokchilarining yoʻllarda harakatlanishning xavfsiz shart-sharoitlariga boʻlgan huquqlari davlat tomonidan kafolatlanadi.
+Yoʻl harakati ishtirokchilarining oʻz huquqlarini amalga oshirishi yoʻl harakati boshqa ishtirokchilarining huquqlarini cheklamasligi yoki buzmasligi kerak.
+Yoʻl harakati ishtirokchilari quyidagi huquqlarga ega:
+Yoʻl harakati qoidalariga muvofiq yoʻllarda erkin va moneliksiz harakatlanish;
+qonunchilikda nazarda tutilgan oʻz huquqlarining cheklanishi yoki buzilishi sabablari toʻgʻrisida maxsus vakolatli davlat organlarining mansabdor shaxslaridan tushuntirishlar olish;
+harakatlanishning xavfsiz sharoitlari toʻgʻrisida, yoʻl harakati xavfsizligini taʼminlash bilan bogʻliq boʻlgan texnik vositalar va xizmatlarning sifati haqida toʻliq hamda ishonchli axborot olish;
+yoʻl-transport hodisalari sodir boʻlganda qonunchilikka muvofiq zimmasiga bepul tibbiy yordam koʻrsatish, qutqaruv ishlarini olib borish va boshqa shoshilinch yordam koʻrsatish majburiyati yuklatilgan tashkilotlar hamda mansabdor shaxslardan shunday yordamlar olish;
+yoʻl-transport hodisasi natijasida oʻziga tan jarohatlari yetkazilgan, transport vositasi va yuk shikastlangan hollarda, qonunchilikda belgilangan tartibda zararning oʻrni qoplanishi, shuningdek maʼnaviy zarar kompensatsiya qilinishi;
+maxsus vakolatli davlat organlarining va mahalliy davlat hokimiyati organlarining yoʻl harakati sohasidagi qonunga xilof qarorlari, shuningdek ular mansabdor shaxslarining qonunga xilof harakatlari (harakatsizligi) ustidan belgilangan tartibda shikoyat qilish;
+yoʻl belgilarini, chiziqlarini, svetoforlarni oʻzgartirish va oʻrnatish yuzasidan, yoʻl qoplamasining holati haqidagi takliflar hamda yoʻl harakati xavfsizligini taʼminlash masalalariga doir boshqa takliflar bilan tegishli organlarga murojaat etish.
+Yoʻl harakati ishtirokchilari:
+yoʻl harakati toʻgʻrisidagi qonunchilik talablariga rioya etishi;
+yoʻl harakati sohasidagi maxsus vakolatli davlat organlari va mahalliy davlat hokimiyati organlari mansabdor shaxslarining qonuniy talablarini bajarishi shart.
+Yoʻl harakati ishtirokchilari qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi va ularning zimmasida oʻzga majburiyatlar boʻlishi mumkin.
+
+44-modda. Transport vositalarini boshqarish huquqi
+Quyidagilarni:
+mototsikllar, motorollerlarni va boshqa mototransport vositalarini boshqarish huquqi — oʻn olti yoshga toʻlgan shaxslarga beriladi;
+ruxsat etilgan eng koʻp ogʻirligi 3500 kilogrammdan va oʻrindiqlar soni haydovchining oʻrindigʻidan tashqari sakkiztadan oshmaydigan avtomobillarni boshqarish huquqi, bundan taksi mustasno — oʻn sakkiz yoshga toʻlgan shaxslarga beriladi;
+ruxsat etilgan eng koʻp ogʻirligi 3500 kilogrammdan oshadigan yuk avtomobillarini boshqarish huquqi — oʻn sakkiz yoshga toʻlgan shaxslarga beriladi;
+taksi sifatida foydalaniladigan avtomobillarni, shuningdek yoʻlovchilar tashish uchun moʻljallangan va haydovchining oʻrindigʻidan tashqari sakkiztadan ortiq oʻrindigʻi boʻlgan avtomobillarni, tramvaylar va trolleybuslarni boshqarish huquqi — yigirma bir yoshga toʻlgan shaxslarga beriladi;
+transport vositalari tarkiblarini boshqarish huquqi — ushbu qismning uchinchi, toʻrtinchi va beshinchi xatboshilarida koʻrsatilgan transport vositalarini boshqarish huquqiga ega boʻlgan shaxslarga transport vositasini boshqarish staji oʻn ikki oydan kam boʻlmagan taqdirda beriladi.
+Transport vositalarini boshqarish huquqi tibbiy tekshiruvdan oʻtgan va malaka imtihonlarini topshirgan shaxslarga beriladigan belgilangan namunadagi guvohnoma bilan tasdiqlanadi.
+Malaka imtihonlarini topshirish va transport vositalarini boshqarish huquqiga doir guvohnomani berish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+Oʻzbekiston Respublikasi hududida belgilangan talablarga muvofiq boʻlgan milliy va xalqaro haydovchilik guvohnomalari amal qiladi.
+
+45-modda. Haydovchilarni tayyorlashga doir talablar
+Transport vositalarini boshqarish huquqini olish uchun malaka imtihonlarini topshirishga tegishli toifadagi haydovchilar tayyorlashning oʻquv rejalari va dasturlarida nazarda tutilgan hajmda tegishli tayyorgarlikdan oʻtgan shaxslar qoʻyiladi.
+Tegishli toifalardagi haydovchilarni tayyorlashning yagona dasturlari Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilangan tartibda tasdiqlanadi.
+
+46-modda. Transport vositalarini boshqarish huquqining bekor qilinishi
+Transport vositalarini boshqarish huquqi quyidagi hollarda bekor qilinadi:
+haydovchining sogʻligʻi transport vositasini xavfsiz boshqarishga monelik qiladigan tarzda yomonlashganligi tibbiy xulosa bilan tasdiqlanganda;
+haydovchi sodir etilgan huquqbuzarlik uchun transport vositasini boshqarish huquqidan mahrum etilganda.
+Javobgarlik chorasi sifatida transport vositalarini boshqarish huquqidan mahrum etishga sabab boʻladigan huquqbuzarliklarning turlari qonunda belgilanadi.
+Transport vositalarini boshqarish huquqidan mahrum etish sud tomonidan qoʻllaniladi.
+
+6-bob. Yoʻl harakati xavfsizligini tibbiy jihatdan taʼminlash
+
+47-modda. Yoʻl harakati xavfsizligini tibbiy jihatdan taʼminlash asoslari
+Yoʻl harakati xavfsizligini tibbiy jihatdan taʼminlash haydovchilarni majburiy ravishda dastlabki va davriy tibbiy koʻriklardan, shu jumladan reysdan oldingi tibbiy koʻriklardan oʻtkazish, shuningdek yoʻl-transport hodisalarida jabrlangan shaxslarga tibbiy yordam koʻrsatish, yoʻl-transport hodisalarida jabrlangan shaxslarga hodisa yuz bergan joyning oʻzida, tibbiyot xodimlari yetib kelguniga qadar birlamchi shoshilinch yordam koʻrsatish usullarini yoʻl harakati ishtirokchilariga, ichki ishlar organlarining, boshqa ixtisoslashtirilgan boʻlinmalarning mansabdor shaxslariga va aholiga davriy ravishda oʻrgatish orqali amalga oshiriladi.
+Yoʻl-transport hodisalarida jabrlangan shaxslarga koʻrsatiladigan tibbiy yordam hodisa yuz bergan joyning oʻzida tibbiyot xodimlari yetib kelguniga qadar birlamchi shoshilinch yordam koʻrsatishdan, shuningdek yoʻl-transport hodisasi sodir boʻlgan joyda, davolash-profilaktika muassasasiga olib borilayotganda va davolash-profilaktika muassasasida malakali tibbiy yordam koʻrsatishdan iboratdir.
+Tibbiy koʻriklarni oʻtkazish hamda yoʻl-transport hodisalarida jabrlangan shaxslarga tibbiy yordam koʻrsatilishini tashkil etish tartibi, tibbiyot xodimlari yetib kelguniga qadar birlamchi shoshilinch yordam koʻrsatish uchun transport vositasining salonida turishi shart boʻlgan zarur tibbiy ashyolar roʻyxati Oʻzbekiston Respublikasi Sogʻliqni saqlash vazirligi tomonidan belgilanadi.
+
+48-modda. Transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjud emasligi yuzasidan tibbiy tekshiruv
+Ushbu Qonunning 44-moddasida koʻrsatilgan yoshga toʻlgan shaxslar avtomototransport vositalari va shahar elektr transporti vositalari haydovchilarini tayyorlash hamda qayta tayyorlash boʻyicha taʼlim tashkilotlariga hujjatlarni topshirishdan oldin tibbiyot muassasalarida transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjud emasligini aniqlash maqsadida majburiy ravishda tibbiy tekshiruvdan oʻtadi.
+Tibbiy tekshiruv ushbu Qonunning ilovasida qayd etilgan tibbiy qarshi koʻrsatmalar mavjud emasligini aniqlash maqsadida pulli asosda oʻtkaziladi.
+Tibbiy tekshiruvdan oʻtkazish ruxsat berilgan tibbiyot muassasalarining roʻyxati, tibbiy tekshiruvni oʻtkazganlik uchun tariflarning miqdorlari va tibbiy tekshiruv natijalariga doir xulosaning shakli Oʻzbekiston Respublikasi Sogʻliqni saqlash vazirligi tomonidan belgilanadi.
+
+49-modda. Transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjud emasligi yuzasidan tibbiy tekshiruvdan oʻtish tartibi
+Tibbiy tekshiruv oʻziga tibbiy tekshiruvni oʻtkazish ruxsat etilgan tibbiyot muassasasi tomonidan, tekshiruvdan oʻtayotgan shaxs shaxsini tasdiqlovchi hujjatni (identifikatsiyalovchi ID-kartasini, pasportini, shaxsini tasdiqlovchi boshqa hujjatini) koʻrsatgach oʻtkaziladi.
+Tibbiy tekshiruvni oʻtkazish uchun tibbiyot muassasasi tomonidan maxsus tibbiy komissiya tuziladi. Tibbiy komissiya tarkibi tibbiyot muassasasining maʼmuriyati tomonidan tasdiqlanadi.
+Tibbiy komissiya tibbiy tekshiruvdan oʻtkazish bilan bogʻliq maʼlumotlarni aks ettirish uchun tibbiy tekshiruvdan oʻtayotgan shaxslarning ambulatoriya kartalarini yuritadi.
+Ambulatoriya kartasida tibbiy tekshiruvni oʻtkazishda ishtirok etayotgan barcha shifokorlar va mutaxassislarning tibbiy tekshiruvdan oʻtayotgan shaxs xususidagi tibbiy xulosalari koʻrsatilishi kerak.
+Tibbiy tekshiruv natijalariga koʻra tibbiyot muassasasi transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjudligi (mavjud emasligi) toʻgʻrisidagi tibbiy komissiya xulosasini elektron shaklda rasmiylashtiradi va axborotning maxfiyligi taʼminlangan holda xulosani tibbiy tekshiruv oʻtkazilgan paytdan eʼtiboran bir ish kuni ichida Davlat yoʻl harakati xavfsizligi xizmatiga axborot tizimi orqali yuboradi.
+Tibbiy komissiya xulosasining koʻchirma nusxasi tibbiy tekshiruvdan oʻtgan shaxsga beriladi.
+Tibbiyot muassasalariga tibbiy yordam soʻrab murojaat qilgan fuqarolarda ushbu Qonunning ilovasida qayd etilgan tibbiy qarshi koʻrsatmalar aniqlangan taqdirda, mazkur axborot uning maxfiyligi taʼminlangan holda, tibbiyot muassasalari tomonidan Davlat yoʻl harakati xavfsizligi xizmatiga axborot tizimi orqali yuboriladi.
+Tibbiy komissiyaning transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjudligi toʻgʻrisidagi xulosasi, shuningdek ushbu Qonunning ilovasida koʻrsatilgan kasalliklar aniqlanganligi haqidagi axborot avtomototransport vositalarining hamda shahar elektr transporti vositalarining haydovchilarini tayyorlash va qayta tayyorlash boʻyicha taʼlim tashkilotlariga nomzodlarning hujjatlarini qabul qilishni rad etish hamda sudlar tomonidan haydovchilarni transport vositalarini boshqarish huquqidan mahrum etish uchun asos boʻladi.
+Tibbiy komissiyalarning transport vositalarini boshqarishga doir tibbiy qarshi koʻrsatmalar mavjudligi (mavjud emasligi) toʻgʻrisidagi xulosalarini (axborotini) kiritish, ularning hisobini yuritish boʻyicha axborot tizimining ishlash tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+7-bob. Yakunlovchi qoidalar
+
+50-modda. Yoʻl harakati sohasida ilm-fan yutuqlaridan foydalanish
+Yoʻl harakatini tashkil etish samaradorligini, yoʻllarning oʻtkazuvchanlik qobiliyatini oshirish, yoʻl harakati ishtirokchilari uchun qulay shart-sharoitlar yaratish maqsadida maxsus vakolatli davlat organlari tizimida yoʻl harakati sohasida ilmiy tadqiqotlarni amalga oshiruvchi tuzilmalar tashkil etilishi mumkin.
+Ilm-fan yutuqlaridan, yoʻl harakatini tashkil etish boʻyicha ilmiy tadqiqotlar natijalaridan maxsus vakolatli davlat organlari tomonidan yoʻl harakatini tashkil etish chogʻida, shu jumladan yoʻl harakatini tashkil etishning axborot tizimlari va texnik vositalarini takomillashtirish uchun foydalaniladi.
+
+51-modda. Yoʻl harakati sohasidagi davlat nazorati
+Yoʻl harakati sohasidagi davlat nazorati yoʻl harakati toʻgʻrisidagi qonunchilik talablari buzilishlarini bartaraf etish haqidagi taqdimnomalarning bajarilishini oʻrganish, yoʻl harakatini tashkil etish borasida aniqlangan kamchiliklarni bartaraf etish maqsadida amalga oshiriladi.
+Yoʻl harakati sohasidagi davlat nazoratini tegishli davlat organlari hamda tashkilotlar qonunchilikda belgilangan hollarda va tartibda amalga oshiradi.
+
+52-modda. Yoʻl harakati sohasidagi tadbirlarni moliyaviy va moddiy-texnika jihatidan taʼminlash
+Yoʻl harakati sohasidagi tadbirlarni moliyaviy jihatdan taʼminlash Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari va qonunchilikda taqiqlanmagan boshqa manbalar hisobidan amalga oshiriladi.
+Yoʻl harakati sohasidagi tadbirlarni moddiy-texnika jihatidan taʼminlash tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+53-modda. Nizolarni hal etish
+Yoʻl harakati sohasidagi nizolar qonunchilikda belgilangan tartibda hal etiladi.
+
+54-modda. Yoʻl harakati toʻgʻrisidagi qonunchilikni buzganlik uchun javobgarlik
+Yoʻl harakati toʻgʻrisidagi qonunchilikni buzganlikda aybdor shaxslar belgilangan tartibda javobgar boʻladi.
+
+55-modda. Oʻzbekiston Respublikasining ayrim qonun hujjatlariga qoʻshimchalar kiritish, shuningdek ayrim qonun hujjatlarini oʻz kuchini yoʻqotgan deb topish
+1. Oʻzbekiston Respublikasining 1994-yil 22-sentabrda qabul qilingan 2015-XII-sonli Qonuni bilan tasdiqlangan Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksining (Oʻzbekiston Respublikasi Oliy Kengashining Axborotnomasi, 1995-yil, № 3, 6-modda; Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1995-yil, № 9, 193-modda, № 12, 269-modda; 1996-yil, № 5-6, 69-modda, № 9, 144-modda; 1997-yil, № 2, 56-modda, № 4-5, 126-modda, № 9, 241-modda; 1998-yil, № 3, 38-modda, № 5-6, 102-modda, № 9, 181-modda; 1999-yil, № 1, 20-modda, № 5, 124-modda, № 9, 229-modda; 2000-yil, № 5-6, 153-modda, № 7-8, 217-modda; 2001-yil, № 1-2, 23-modda, № 9-10, 165, 182-moddalar; 2002-yil, № 1, 20-modda, № 9, 165-modda; 2003-yil, № 1, 8-modda, № 5, 67-modda, № 9-10, 149-modda; 2004-yil, № 1-2, 18-modda, № 5, 90-modda, № 9, 171-modda; 2005-yil, № 1, 18-modda; Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2005-yil, № 9, 312-modda, № 12, 413, 417, 418-moddalar; 2006-yil, № 6, 261-modda, № 9, 498-modda, № 10, 536-modda, № 12, 656, 659-moddalar; 2007-yil, № 4, 158, 159, 164, 165-moddalar, № 9, 416, 421-moddalar, № 12, 596, 604, 607-moddalar; 2008-yil, № 4, 181, 189, 192-moddalar, № 9, 486, 488-moddalar, № 12, 640, 641-moddalar; 2009-yil, № 1, 1-modda, № 9, 334, 335, 337-moddalar, № 10, 380-modda, № 12, 462, 468, 470, 472, 474-moddalar; 2010-yil, № 5, 175, 179-moddalar, № 6, 231-modda, № 9, 335, 339, 341-moddalar, № 10, 380-modda, № 12, 468, 473, 474-moddalar; 2011-yil, № 1, 1-modda, № 4, 104, 105-moddalar, № 9, 247, 252-moddalar, № 12/2, 365-modda; 2012-yil, № 4, 108-modda, № 9/1, 242-modda, № 12, 336-modda; 2013-yil, № 4, 98-modda, № 10, 263-modda; 2014-yil, № 1, 2-modda, № 5, 130-modda, № 9, 244-modda, № 12, 341, 343-moddalar; 2015-yil, № 6, 228-modda, № 8, 310, 312-moddalar, № 12, 452-modda; 2016-yil, № 1, 2-modda, № 4, 125-modda, № 9, 276-modda, № 12, 383, 385-moddalar; 2017-yil, № 4, 137-modda, № 6, 300-modda, № 9, 510-modda, № 10, 605-modda; 2018-yil, № 1, 1, 4, 5-moddalar, № 4, 224-modda, № 7, 430, 431, 432-moddalar, № 10, 671, 673, 679-moddalar; 2019-yil, № 1, 1, 3, 5-moddalar, № 2, 47-modda, № 3, 161, 165, 166-moddalar, № 5, 259, 261, 267, 268-moddalar, № 7, 386-modda, № 8, 469, 471-moddalar, № 9, 591, 592-moddalar, № 10, 674, 676-moddalar, № 11, 787, 791-moddalar, № 12, 880, 891-moddalar; 2020-yil, № 1, 4-modda, № 3, 203, 204-moddalar, № 7, 449-modda, № 9, 539, 540-moddalar, № 10, 593, 596-moddalar, № 11, 651-modda, № 12, 691-modda; 2021-yil, № 1, 5, 7, 12, 13, 14-moddalar, № 2, 142-modda, № 3, 217-modda, № 4, 290, 293-moddalar, 4-songa ilova, № 8, 800, 802, 803-moddalar, № 9, 903-modda, № 10, 966, 967, 968, 973-moddalar, № 11, 1066-modda; 2022-yil, № 1, 1, 2-moddalar, № 2, 80, 81-moddalar, № 3, 215, 216-moddalar, № 4, 337-modda, № 5, 464, 465, 466, 467-moddalar, № 8, 787-modda, № 10, 981, 984-moddalar, № 12, 1189-modda) 147-moddasiga quyidagi qoʻshimchalar kiritilsin:
+nomi “qoidalarini buzish” degan soʻzlardan keyin “yoʻl harakatini tashkil etish talablarini bajarmaslik” degan soʻzlar bilan toʻldirilsin;
+ikkinchi qism “choralarini koʻrmaslik” degan soʻzlardan keyin “shuningdek yoʻl harakatini tashkil etish talablarini bajarmaslik” degan soʻzlar bilan toʻldirilsin.
+2. Quyidagilar oʻz kuchini yoʻqotgan deb topilsin:
+1) Oʻzbekiston Respublikasining 1999-yil 19-avgustda qabul qilingan “Yoʻl harakati xavfsizligi toʻgʻrisida”gi 818-I-sonli Qonuni (Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1999-yil, № 9, 215-modda);
+2) Oʻzbekiston Respublikasi Oliy Majlisining 1999-yil 19-avgustda qabul qilingan “Yoʻl harakati xavfsizligi toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonunini amalga kiritish haqida”gi 819-I-sonli Qarori (Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1999-yil, № 9, 216-modda);
+3) Oʻzbekiston Respublikasining 2006-yil 6-aprelda qabul qilingan “Mahsulotlar va xizmatlarni sertifikatlashtirish tartib-taomillari soddalashtirilganligi munosabati bilan Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish toʻgʻrisida”gi OʻRQ-31-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2006-yil, № 4, 157-modda) 5-moddasi ;
+4) Oʻzbekiston Respublikasining 2007-yil 5-aprelda qabul qilingan “Yoʻl harakati xavfsizligi toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuniga oʻzgartishlar kiritish haqida”gi OʻRQ-82-sonli Qonuni (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2007-yil, № 4, 155-modda);
+5) Oʻzbekiston Respublikasining 2013-yil 10-aprelda qabul qilingan “Yoʻl harakati xavfsizligi toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuniga oʻzgartish va qoʻshimchalar kiritish haqida”gi OʻRQ-348-sonli Qonuni (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2013-yil, № 4, 94-modda);
+6) Oʻzbekiston Respublikasining 2015-yil 29-dekabrda qabul qilingan “Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish toʻgʻrisida”gi OʻRQ-396-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2015-yil, № 12, 452-modda) 18-moddasi ;
+7) Oʻzbekiston Respublikasining 2021-yil 21-aprelda qabul qilingan “Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartishlar kiritish toʻgʻrisida”gi OʻRQ-683-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2021-yil, 4-songa ilova) 108-moddasi ;
+8) Oʻzbekiston Respublikasining 2021-yil 12-oktabrda qabul qilingan “Litsenziyalash, ruxsat berish va xabardor qilish tartib-taomillari toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuni qabul qilinganligi munosabati bilan Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish haqida”gi OʻRQ-721-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2021-yil, № 10, 968-modda) 15-moddasi .
+
+56-modda. Ushbu Qonunning ijrosini, yetkazilishini, mohiyati va ahamiyati tushuntirilishini taʼminlash
+Oʻzbekiston Respublikasi Ichki ishlar vazirligi, Transport vazirligi va boshqa manfaatdor tashkilotlar ushbu Qonunning ijrosini, ijrochilarga yetkazilishini hamda mohiyati va ahamiyati aholi oʻrtasida tushuntirilishini taʼminlasin.
+
+57-modda. Qonunchilikni ushbu Qonunga muvofiqlashtirish
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi:
+ushbu Qonun 20-moddasining ikkinchi qismi talablari ham hisobga olinadigan Tashqi reklama va axborot obyektlari (konstruksiyalari) xavfsizligining umumiy texnik reglamentini ishlab chiqsin va tasdiqlasin;
+hukumat qarorlarini ushbu Qonunga muvofiqlashtirsin;
+respublika ijro etuvchi hokimiyat organlari ushbu Qonunga zid boʻlgan oʻz normativ-huquqiy hujjatlarini qayta koʻrib chiqishlari va bekor qilishlarini taʼminlasin.
+
+58-modda. Ushbu Qonunning kuchga kirishi
+Ushbu Qonun rasmiy eʼlon qilingan kundan eʼtiboran olti oy oʻtgach kuchga kiradi.
+Oʻzbekiston Respublikasining Prezidenti Sh. MIRZIYOYEV
+Toshkent sh.,
+2024-yil 19-yanvar,
+ROʻYXATI

@@ -1,0 +1,29 @@
+{
+  "_izoh": "Muammo turi -> mas'ul organ ma'lumotnomasi. AI faqat kategoriya 'id'sini tanlaydi, organ nomi shu fayldan olinadi. Organ nomlarini rasmiy manbalar bilan tekshirib, kerak bo'lsa yangilang.",
+  "kanallar": [
+    {"nomi": "Yagona interaktiv davlat xizmatlari portali", "manzil": "my.gov.uz", "izoh": "OneID orqali kirib, elektron murojaat yuboriladi"},
+    {"nomi": "O'zbekiston Respublikasi Prezidentining Virtual qabulxonasi", "manzil": "pm.gov.uz", "izoh": "Quyi organ javob bermasa yoki muammo hal qilinmasa"},
+    {"nomi": "Xalq qabulxonasi", "manzil": "Tuman (shahar) Xalq qabulxonasi", "izoh": "Shaxsan borib topshirish mumkin"},
+    {"nomi": "Pochta orqali", "manzil": "Organning rasmiy pochta manziliga", "izoh": "Buyurtma xat bilan yuborish tavsiya etiladi"}
+  ],
+  "kategoriyalar": [
+    {"id": "elektr", "nomi": "Elektr ta'minoti", "organ": "\"Hududiy elektr tarmoqlari\" AJning tuman (shahar) filiali", "qoshimcha": "Tuman (shahar) hokimligi; Energetika vazirligi", "misollar": "svet yo'q, kuchlanish past, hisoblagich muammosi"},
+    {"id": "gaz", "nomi": "Gaz ta'minoti", "organ": "\"Hududgaztaminot\" AJning tuman (shahar) filiali", "qoshimcha": "Tuman (shahar) hokimligi; Energetika vazirligi", "misollar": "gaz bosimi past, gaz yo'q, ulanish"},
+    {"id": "suv_kommunal", "nomi": "Ichimlik suvi, kanalizatsiya, chiqindi, issiqlik", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Hududiy suv ta'minoti korxonasi; Qurilish va uy-joy kommunal xo'jaligi vazirligi", "misollar": "suv kelmaydi, kanalizatsiya oqyapti, chiqindi olib ketilmayapti, issiqlik yo'q"},
+    {"id": "obodonlashtirish", "nomi": "Yo'l, ko'cha yoritgichlari, obodonlashtirish", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Avtomobil yo'llari qo'mitasi (respublika yo'llari uchun)", "misollar": "yo'l buzilgan, chuqur, ko'cha chiroqlari yonmaydi, daraxt, o'yin maydonchasi"},
+    {"id": "uy_joy", "nomi": "Ko'p qavatli uy, uy-joy mulkdorlari shirkati", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Qurilish va uy-joy kommunal xo'jaligi vazirligining hududiy boshqarmasi", "misollar": "tom oqadi, lift ishlamaydi, podyezd ta'miri, shirkat faoliyati"},
+    {"id": "maktab_bogcha", "nomi": "Maktab va maktabgacha ta'lim", "organ": "Tuman (shahar) maktabgacha va maktab ta'limi bo'limi", "qoshimcha": "Maktabgacha va maktab ta'limi vazirligi", "misollar": "bog'chaga joy berilmayapti, maktabda pul yig'ish, o'qituvchi muammosi"},
+    {"id": "oliy_talim", "nomi": "Oliy ta'lim", "organ": "Tegishli oliy ta'lim muassasasi rektorati", "qoshimcha": "Oliy ta'lim, fan va innovatsiyalar vazirligi", "misollar": "kontrakt, stipendiya, o'qishni ko'chirish, imtihon"},
+    {"id": "sogliq", "nomi": "Sog'liqni saqlash", "organ": "Tegishli tibbiyot muassasasi rahbariyati", "qoshimcha": "Hududiy sog'liqni saqlash boshqarmasi; Sog'liqni saqlash vazirligi", "misollar": "shifokor e'tiborsizligi, dori, navbat, tez yordam kechikdi"},
+    {"id": "mehnat", "nomi": "Mehnat munosabatlari va bandlik", "organ": "Ish beruvchi (tashkilot rahbari)", "qoshimcha": "Davlat mehnat inspeksiyasi; Kambag'allikni qisqartirish va bandlik vazirligi", "misollar": "ish haqi berilmayapti, noqonuniy ishdan bo'shatish, mehnat daftarchasi"},
+    {"id": "ijtimoiy", "nomi": "Pensiya, nafaqa, ijtimoiy yordam", "organ": "Ijtimoiy himoya milliy agentligining tuman (shahar) bo'limi", "qoshimcha": "Tuman (shahar) hokimligi", "misollar": "pensiya hisoblanmadi, nafaqa to'xtadi, nogironlik, ijtimoiy reyestr"},
+    {"id": "istemolchi", "nomi": "Iste'molchilar huquqlari", "organ": "Sotuvchi yoki xizmat ko'rsatuvchi tashkilot", "qoshimcha": "Raqobatni rivojlantirish va iste'molchilar huquqlarini himoya qilish qo'mitasining hududiy boshqarmasi", "misollar": "sifatsiz tovar, pulni qaytarmaslik, kafolat, onlayn do'kon"},
+    {"id": "yer_mulk", "nomi": "Yer va ko'chmas mulk", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Kadastr agentligining hududiy boshqarmasi", "misollar": "kadastr hujjati, yer ajratish, buzish, kompensatsiya"},
+    {"id": "huquqbuzarlik", "nomi": "Jamoat tartibi va huquqbuzarlik", "organ": "Tuman (shahar) ichki ishlar bo'limi", "qoshimcha": "Tuman (shahar) prokuraturasi", "misollar": "bezorilik, o'g'irlik, firibgarlik, qo'shni tahdidi"},
+    {"id": "mansabdor", "nomi": "Mansabdor shaxs harakati ustidan shikoyat, korrupsiya", "organ": "Tegishli organning yuqori turuvchi rahbari", "qoshimcha": "Prokuratura; Korrupsiyaga qarshi kurashish agentligi", "misollar": "pora so'rash, murojaatga javob bermaslik, qo'pollik, qonunbuzarlik"},
+    {"id": "transport", "nomi": "Jamoat transporti", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Transport vazirligining hududiy boshqarmasi", "misollar": "avtobus qatnamaydi, yo'nalish, bekat"},
+    {"id": "ekologiya", "nomi": "Ekologiya va atrof-muhit", "organ": "Ekologiya, atrof-muhitni muhofaza qilish va iqlim o'zgarishi vazirligining hududiy boshqarmasi", "qoshimcha": "Tuman (shahar) hokimligi", "misollar": "daraxt kesish, chiqindi yoqish, havo ifloslanishi"},
+    {"id": "soliq", "nomi": "Soliq", "organ": "Tuman (shahar) davlat soliq inspeksiyasi", "qoshimcha": "Soliq qo'mitasi", "misollar": "noto'g'ri hisoblangan soliq, mol-mulk solig'i, yer solig'i"},
+    {"id": "boshqa", "nomi": "Boshqa masalalar", "organ": "Tuman (shahar) hokimligi", "qoshimcha": "Xalq qabulxonasi", "misollar": "yuqoridagilarga mos kelmaydigan masalalar"}
+  ]
+}
